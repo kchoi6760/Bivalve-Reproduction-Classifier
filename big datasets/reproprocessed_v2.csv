@@ -1,0 +1,543 @@
+"","SiteID","Study","Species","Locality","spawnstart","spawnend","peak1","spawnstart2","spawnend2","peak2","spawnstart3","spawnend3","peak3","Notes","family","Longitude","Latitude","latzone","allyear"
+"1","1","Abraham 1953","Meretrix casta","Adyar river mouth",0.166666666666667,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",80.2666666666667,13.0166666666667,"Tropical",0
+"2","2","Adachi 1979","Ruditapes phillipinarum","Inage, Japan",0.5,0.5,0.5,0.833333333333333,0.916666666666667,0.833333333333333,NA,NA,NA,"","Veneridae",140.05,35.6,"Subtropical",0
+"3","4","Alagarswami 1966","Donax faba","Vedelai, India",0.333333333333333,0.583333333333333,0.5,0.916666666666667,1,1,NA,NA,NA,"","Donacidae",79.1333333333333,9.25,"Tropical",0
+"4","5","Allen 1962","Brachidontes recurvus","Hackett's Bar",0.5,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-76.3,36.8666666666667,"Subtropical",0
+"5","6","Almeida et al 1999","Crassostrea gigas","Ria de Aveiro, Portugal",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Ostreidae",-8.66666666666667,40.7,"Subtropical",0
+"6","6","Almeida et al 1999","Ostrea edulis","Ria de Aveiro, Portugal",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Ostreidae",-8.66666666666667,40.7,"Subtropical",0
+"7","7","Andersen 1971","Panopea generosa","Hood Canal, Washington",1,0.583333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Hiatellidae",-122.783333333333,47.6333333333333,"Temperate",0
+"8","8","Anibal et al ","Ruditapes decussatus","Ria Formosa, Portugal",0.5,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-7.96666666666667,37,"Subtropical",0
+"9","9","Ansell 1961","Venus striatula","Kames Bay",0.416666666666667,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-4.91666666666667,55.75,"Temperate",0
+"10","10","Ansell 1972","Donax vittatus","Kames Bay",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",-4.91666666666667,55.75,"Temperate",0
+"11","11","Ansell 1974","Pseudomussium peslutrae","Cumbrae deep, UK",0.416666666666667,0.416666666666667,0.416666666666667,0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,"","Pectinidae",-4.95,55.75,"Temperate",0
+"12","12","Ansell 1974b","Abra alba","Cumbrae deep, UK",0.583333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-4.95,55.75,"Temperate",0
+"13","13","Ansell and Bodoy 1979","Donax trunculus","Camarque Coast, France",0.416666666666667,0.5,0.416666666666667,0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,"","Donacidae",4.91666666666667,43.3833333333333,"Subtropical",0
+"14","14","Ansell and Bodoy 1979","Donax vittatus","Gullane, Scotland",0.5,0.833333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Donacidae",-2.83333333333333,56.0333333333333,"Temperate",0
+"15","15","Ansell and Trevallion 1967","Tellina tenuis","Kames Bay",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Tellinidae",-4.91666666666667,55.75,"Temperate",0
+"16","16","Ansell et al 1980","Donax trunculus","Azur Plage, Algeria",0.416666666666667,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",2.83333333333333,36.7333333333333,"Subtropical",0
+"17","17","Aragon-Noriega et al 2007","Panopea globosa","Bahia de Guaymas-Empalme",1,0.0833333333333333,1,NA,NA,NA,NA,NA,NA,"","Hiatellidae",-110.716666666667,27.8833333333333,"Subtropical",0
+"18","18","Arellano-Martinez et al 2011","Nodipecten subnodosus","Guerrero Negro Lagoon, Baja California Sur",0.833333333333333,0.916666666666667,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-114.033333333333,27.9166666666667,"Subtropical",0
+"19","18","Arellano-Martinez et al 2011","Nodipecten subnodosus","Guerrero Negro Lagoon, Baja California Sur",0.833333333333333,0.916666666666667,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-114.033333333333,27.9166666666667,"Subtropical",0
+"20","20","Arjarasirikoon et al 2004","Pteria penguin","Si-Chang Islands, Thailand",0.0833333333333333,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pteriidae",110.8,13.15,"Tropical",1
+"21","21","Asif 1980","Crassostrea cucullata","Gaddani Beach, Pakistan",0.0833333333333333,1,0.5,NA,NA,NA,NA,NA,NA,"","Ostreidae",66.7166666666667,25.1166666666667,"Subtropical",1
+"22","22","Avendano and Pennec 1997","Argopecten purpuratus","Meijillones Bay, Chile",0.0833333333333333,0.5,0.25,NA,NA,NA,NA,NA,NA,"","Pectinidae",-70.45,23.5,"Subtropical",0
+"23","23","Avendano and Pennec 1997","Argopecten purpuratus","Rinconada Bay, Chile",0.916666666666667,0.25,0.916666666666667,0.666666666666667,0.75,0.666666666666667,NA,NA,NA,"","Pectinidae",-70.45,23.0833333333333,"Subtropical",0
+"24","24","Barber and Blake 1981","Argopecten irradians","Tarpon Springs, FL",0.833333333333333,0.833333333333333,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",-82.75,28.15,"Subtropical",0
+"25","29","Behzadi et al 1997","Pinctada fucata","Nakhiloo, Iran",0.333333333333333,0.0833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pteriidae",53.3666666666667,26.8166666666667,"Subtropical",0
+"26","30","Beninger and Lucas 1984","Ruditapes decussatus","Ile-Tudy, France",0.333333333333333,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-4.16666666666667,47.8333333333333,"Temperate",0
+"27","31","Beninger and Lucas 1984","Ruditapes phillipinarum","Ile-Tudy, France",0.25,0.916666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-4.16666666666667,47.8333333333333,"Temperate",0
+"28","32","Bonsdorff and Wenne 1989","Macoma balthica","Aland archipelago",0.333333333333333,0.416666666666667,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Tellinidae",19.5833333333333,60.2166666666667,"Temperate",0
+"29","33","Borrero 1987","Geukensia demissa","North Inlet Estuary, SC",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-79.1333333333333,33.3166666666667,"Subtropical",0
+"30","34","Borsa and Millet 1992","Ruditapes decussatus","Thau lagoon, France",0.5,0.5,0.5,0.666666666666667,0.666666666666667,0.666666666666667,NA,NA,NA,"","Veneridae",3.6,43.4,"Subtropical",0
+"31","35","Boyden 1971","Cerastoderma edule","Crouch estuary, Essex",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Cardiidae",1,51.1333333333333,"Temperate",0
+"32","36","Boyden 1971","Cerastoderma glaucum","Crouch estuary, Essex",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Cardiidae",1,51.1333333333333,"Temperate",0
+"33","37","Breber 1980","Venerupis decussata","Venice Lagoon",0.583333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",12.2833333333333,45.2166666666667,"Temperate",0
+"34","39","Broom 1983","Anadara granosa","Kuala Selangor, Malaysia",0.0833333333333333,1,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",101.233333333333,3.33333333333333,"Tropical",1
+"35","40","Broom and Mason 1978","Aequipecten opercularis","Langstone Harbor",0.5,0.583333333333333,0.5,0.75,0.833333333333333,0.75,0.0833333333333333,0.166666666666667,0.0833333333333333,"","Pectinidae",-1.03333333333333,50.8,"Temperate",0
+"36","41","Brown 1982","Abra nitida","Tjorn, Sweden",0.0833333333333333,1,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Semelidae",11.05,57.1,"Temperate",1
+"37","42","Brown 1984","Modiolus modiolus","Gullmar Fjord, Sweden",0.416666666666667,0.25,0.75,NA,NA,NA,NA,NA,NA,"","Mytilidae",11.3333333333333,58.3,"Temperate",0
+"38","43","Brown 1984","Modiolus modiolus","Bergen, Norway",0.0833333333333333,1,1,NA,NA,NA,NA,NA,NA,"","Mytilidae",NA,60.4,"Temperate",1
+"39","44","Brown 1984","Modiolus modiolus","Tromso, Norway",0.416666666666667,0.25,0.75,NA,NA,NA,NA,NA,NA,"","Mytilidae",18.9166666666667,69.5166666666667,"Boreal",0
+"40","45","Brown 1984","Modiolus modiolus","Strangford Lough, Ireland",0.0833333333333333,1,1,NA,NA,NA,NA,NA,NA,"","Mytilidae",5.66666666666667,54.4,"Temperate",1
+"41","48","Caddy 1967","Macoma balthica","Whitstable UK",0.333333333333333,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",1.01666666666667,51.3666666666667,"Temperate",0
+"42","49","Calderon-Aguilera et al 2010","Panopea globosa","San Felipe, Mexico",1,0.0833333333333333,1,NA,NA,NA,NA,NA,NA,"","Hiatellidae",-114.75,31.25,"Subtropical",0
+"43","51","Cardoso et al 2007","Spisula subtruncata","Texel, Netherlands",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Mactridae",4.8,53.05,"Temperate",0
+"44","52","Coe and Turner 1938","Mya arenaria","New Haven, CT",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Myidae",-72.9333333333333,41.3,"Subtropical",0
+"45","53","Comely 1974","Pecten maximus","Great Cumbrae, UK",0.25,0.333333333333333,0.25,0.5,0.583333333333333,0.5,NA,NA,NA,"","Pectinidae",-4.93333333333333,55.7666666666667,"Temperate",0
+"46","54","Crnevic et al 2013","Glycymeris nummaria","Mali Ston Bay",0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"Females","Glycymerididae",17.65,42.8666666666667,"Subtropical",0
+"47","55","Cross et al 2012","Mya arenaria","Bannow Bay, Ireland",0.5,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Myidae",-6.78333333333333,52.2166666666667,"Temperate",0
+"48","56","Cruz and Villalobos 1993","Mytella guyanensis","Ochoa Estuary, Costa Rica",0.75,0.916666666666667,0.75,0.166666666666667,0.416666666666667,0.25,NA,NA,NA,"Year-round, noting when spawning above 20 percent","Mytilidae",-85.1,10.1833333333333,"Tropical",0
+"49","57","Darriba et al 2005","Ensis siliqua","Ria de Corcubion, Spain",0.333333333333333,0.416666666666667,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Pharidae",-9.2,42.9166666666667,"Subtropical",0
+"50","58","de la Rua et al 2003","Chamelea gallina","Donana, Spain",0.0833333333333333,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-6.43333333333333,36.9333333333333,"Subtropical",0
+"51","59","de la Rua et al 2003","Chamelea gallina","Fuengirola, Spain ",0.0833333333333333,1,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-4.61666666666667,36.5333333333333,"Subtropical",1
+"52","60","de la Rua et al 2003","Chamelea gallina","Punta Umbria, Spain",0.0833333333333333,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-6.96666666666667,37.1833333333333,"Subtropical",0
+"53","61","Deval 2009","Donax trunculus","Northern Sea of Marmara",0.333333333333333,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Donacidae",27.4666666666667,40.8833333333333,"Subtropical",0
+"54","62","Deval and Gokturk 2008","Spisula subtruncata","Northern Sea of Marmara",0.416666666666667,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Mactridae",27.4666666666667,40.8833333333333,"Subtropical",0
+"55","63","Dias et al 2009","Mytilus trossulus","Loch Etive",0.666666666666667,0.916666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Mytilidae",-5.06666666666667,56.5666666666667,"Temperate",0
+"56","64","Dias et al 2009","Mytilus edulis","Loch Etive",0.333333333333333,0.583333333333333,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-5.06666666666667,56.5666666666667,"Temperate",0
+"57","66","Doherty et al 2009","Mytilus edulis","Galway Bay",0.25,0.416666666666667,0.333333333333333,0.583333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,"","Mytilidae",-9.5,53.2166666666667,"Temperate",0
+"58","67","Doherty et al 2009","Mytilus galloprovincialis","Galway Bay",0.25,0.416666666666667,0.333333333333333,0.583333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,"invasive","Mytilidae",-9.5,53.2166666666667,"Temperate",0
+"59","68","Dridi et al 2007","Crassostrea gigas","Bizert lagoon, Tunisia",0.416666666666667,0.75,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",9.76666666666667,37.1333333333333,"Subtropical",0
+"60","69","Durve 1964","Meretrix casta","Mandapam Camp, India",1,0.333333333333333,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",79.1333333333333,9.28333333333333,"Tropical",0
+"61","70","Enriquez-Diaz et al 2007","Crassostrea gigas","Baie des Veys ",0.666666666666667,0.666666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-1.15,49.3833333333333,"Temperate",0
+"62","71","Enriquez-Diaz et al 2007","Crassostrea gigas","Marennes-Oleron",0.583333333333333,0.666666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-1.21666666666667,45.8166666666667,"Temperate",0
+"63","72","Eshky 1998","Donax faba","Sharm Obhour, Saudi Arabia",0.5,0.5,0.5,0.916666666666667,1,0.916666666666667,NA,NA,NA,"","Donacidae",39.1,21.7,"Tropical",0
+"64","73","Eversole 2001","Mercenaria mercenaria","Alligator Harbor, FL",0.166666666666667,0.916666666666667,0.25,NA,NA,NA,NA,NA,NA,"","Veneridae",-84.3833333333333,29.9,"Subtropical",0
+"65","74","Eversole 2001","Mercenaria mercenaria","Back Sound, NC",0.416666666666667,0.833333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-76.5666666666667,34.6833333333333,"Subtropical",0
+"66","75","Eversole 2001","Mercenaria mercenaria","Charles Island, CT",0.583333333333333,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-73.05,41.1833333333333,"Subtropical",0
+"67","76","Eversole 2001","Mercenaria mercenaria","Chesapeake Bay, VA",0.416666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-76.3,36.8666666666667,"Subtropical",0
+"68","77","Eversole 2001","Mercenaria mercenaria","Clark Sound, SC",0.25,1,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-79.9333333333333,32.7166666666667,"Subtropical",0
+"69","78","Eversole 2001","Mercenaria mercenaria","Delaware Bay, NY",0.5,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-75.1166666666667,38.7833333333333,"Subtropical",0
+"70","79","Eversole 2001","Mercenaria mercenaria","Gr. South Bay, NY",0.416666666666667,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-73.1166666666667,40.6833333333333,"Subtropical",0
+"71","80","Eversole 2001","Mercenaria mercenaria","Indian River, FL",0.0833333333333333,1,0.25,NA,NA,NA,NA,NA,NA,"","Veneridae",-80.5833333333333,28.2166666666667,"Subtropical",1
+"72","81","Eversole 2001","Mercenaria mercenaria","N. Santee Bay, SC",0.25,0.916666666666667,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-79.2333333333333,33.1666666666667,"Subtropical",0
+"73","82","Eversole 2001","Mercenaria mercenaria","Raritan Bay, NY",0.5,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-74.2666666666667,40.4833333333333,"Subtropical",0
+"74","83","Eversole 2001","Mercenaria mercenaria","Wassaw Sound, GA",0.166666666666667,1,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-80.95,31.9333333333333,"Subtropical",0
+"75","85","Fillipenko and Naumenko 2014","Mya arenaria","Darss-Zingst lagoon",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Myidae",12.6166666666667,54.3833333333333,"Temperate",0
+"76","86","Galap et al 1997","Glycymeris glycymeris","Douarnenez, Brittany",0.333333333333333,0.416666666666667,0.333333333333333,0.75,0.833333333333333,0.75,NA,NA,NA,"","Glycymerididae",-4.33333333333333,48.1,"Temperate",0
+"77","87","Garcia-Corona et al 2018","Modiolus capax","Bahia de La Pas, Baja California, Sur",0.333333333333333,0.5,0.416666666666667,0.75,0.916666666666667,0.666666666666667,NA,NA,NA,"Some from March-April and July-August (below 20%)","Mytilidae",-110.333333333333,24.3,"Subtropical",0
+"78","88","Garcia-Dominguez et al 2008","Anadara tuberculosa","Bahia Magdalena, Mexico",0.5,0.333333333333333,1,NA,NA,NA,NA,NA,NA,"","Arcidae",-112.016666666667,24.6833333333333,"Subtropical",0
+"79","89","Gaspar et al 1998","Ensis siliqua","Vilamoura, Portugal",0.25,0.5,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Pharidae",-8.11666666666667,37.0666666666667,"Subtropical",0
+"80","90","Gaspar et al 1998","Venus striatula","Vilamoura, Portugal",0.416666666666667,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-8.11666666666667,37.0666666666667,"Subtropical",0
+"81","91","Gaspar et al 1999","Donax trunculus","Faro, Portugal",0.25,0.666666666666667,0.416666666666667,NA,NA,NA,NA,NA,NA,"100 percent from April to July","Donacidae",-7.93333333333333,36.95,"Subtropical",0
+"82","92","Ghribi et al 2017","Arca noae","Bizert lagoon, Tunisia",0.916666666666667,0.333333333333333,0.166666666666667,0.583333333333333,0.75,0.666666666666667,NA,NA,NA,"","Arcidae",9.86666666666667,37.1666666666667,"Subtropical",0
+"83","93","Gozler and Tarkan 2000","Ruditapes decussatus","Cardak Lagoon, Turkey",0.583333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",26.7166666666667,40.35,"Subtropical",0
+"84","98","Guillou and Sauriau 1985","Venus striatula","Douarnenez, Brittany",0.333333333333333,0.583333333333333,0.5,0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,"","Veneridae",-4.33333333333333,48.1,"Temperate",0
+"85","102","Hamli et al 2015","Meretrix lyrata","Buntal River, Malaysia",0.166666666666667,0.666666666666667,0.333333333333333,1,1,1,NA,NA,NA,"","Veneridae",110.366666666667,1.7,"Tropical",0
+"86","103","Harvey and Vincent 1989","Macoma balthica","Baie des Roses, Canada",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",-65.5666666666667,48.4333333333333,"Temperate",0
+"87","104","Hayes and Menzel 1981","Crassostrea virginica","Alligator Harbor, FL",0.583333333333333,0.916666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",-84.3833333333333,29.9,"Subtropical",0
+"88","105","Hayes and Menzel 1981","Crassostrea virginica","Turkey Point, FL",0.333333333333333,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",-80.3,25.4166666666667,"Subtropical",0
+"89","106","Heffernan et al 1989a","Crassostrea virginica","Wassaw Sound, GA",0.5,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-80.95,31.9333333333333,"Subtropical",0
+"90","109","Jahangir et al 2014","Anadara antiquata","Phitti Creek, Pakistan",0.0833333333333333,1,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Arcidae",66.2333333333333,24.8,"Subtropical",1
+"91","110","Jahangir et al 2014","Anadara antiquata","Sonmiani Bay, Pakistan",0.0833333333333333,1,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",66.5833333333333,25.4166666666667,"Subtropical",1
+"92","111","Jasim and Brand 1989","Modiolus modiolus","Isle of Man",0.0833333333333333,1,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-4.56666666666667,53.9166666666667,"Temperate",1
+"93","112","Jeon et al 2012","Barnea davidi","Hampyeong Bay, Korea",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pholadidae",126.35,35.0833333333333,"Subtropical",0
+"94","113","Joaquim et al 2008","Spisula solida","Algarve coast, Portugal",0.166666666666667,0.416666666666667,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Mactridae",-7.75,37.05,"Subtropical",0
+"95","114","Joaquim et al 2011","Venerupis senegalensis","Ria de Aveiro, Portugal",0.25,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-8.66666666666667,40.7,"Subtropical",0
+"96","115","Juric et al 2012","Venerupis decussata","Pag Bay",0.416666666666667,0.75,NA,NA,NA,NA,NA,NA,NA,"","Veneridae",15.05,44.45,"Subtropical",0
+"97","116","Kanazawa and Sato 2008","Ruditapes phillipinarum","Unoo, Fukushima, Japan",0.5,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",140.983333333333,37.8166666666667,"Subtropical",0
+"98","117","Kanti et al 1993","Spisula solidissima","St. Catherine's Island, Georgia",0.25,0.5,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Mactridae",-81.15,31.6333333333333,"Subtropical",0
+"99","118","Karayucel and Karayucel 2000","Mytilus edulis","Loch Etive",0.25,0.333333333333333,0.25,NA,NA,NA,NA,NA,NA,"","Mytilidae",-5.06666666666667,56.5666666666667,"Temperate",0
+"100","119","Lammens 1967","Macoma balthica","Den Helder, Netherlands",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",4.68333333333333,52.9333333333333,"Temperate",0
+"101","120","Langdon and Robinson 1996","Crassostrea ariakensis","Yaquina Bay, OR",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-124.016666666667,44.7666666666667,"Subtropical",0
+"102","121","Langdon and Robinson 1996","Crassostrea gigas","Yaquina Bay, OR",0.833333333333333,0.0833333333333333,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-124.016666666667,44.7666666666667,"Subtropical",0
+"103","122","Laruelle et al 1994","Ruditapes phillipinarum","Bay of Brest",0.416666666666667,0.416666666666667,0.416666666666667,0.666666666666667,0.916666666666667,0.666666666666667,NA,NA,NA,"","Veneridae",-4.3,48.35,"Temperate",0
+"104","123","Laruelle et al 1994","Ruditapes decussatus","Bay of Brest",0.583333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-4.3,48.35,"Temperate",0
+"105","124","Laruelle et al 1994","Ruditapes decussatus","Etel Ria",0.5,0.583333333333333,0.583333333333333,0.75,0.833333333333333,0.75,NA,NA,NA,"","Veneridae",-3.21666666666667,47.75,"Temperate",0
+"106","125","Laruelle et al 1994","Ruditapes phillipinarum","Morbihan Gulf",0.5,0.583333333333333,0.5,0.75,0.833333333333333,0.75,NA,NA,NA,"","Veneridae",-2.75,47.6833333333333,"Temperate",0
+"107","126","Lee 1988","Perna viridis","Victoria Harbour, Hong Kong",0.583333333333333,0.916666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Mytilidae",114.166666666667,22.3,"Tropical",0
+"108","127","Li et al 2011","Mactra chinensis","Haiyang, China",0.583333333333333,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mactridae",121.15,36.7666666666667,"Subtropical",0
+"109","128","Liu et al 2008","Fulvia mutica","Weihai, China",0.166666666666667,0.583333333333333,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Cardiidae",121.183333333333,36.6833333333333,"Subtropical",0
+"110","129","Lodeiros and Himmelman 1994","Euvola ziczac","Turpialito, Venezuela",0.25,0.666666666666667,0.333333333333333,0.25,0.666666666666667,0.583333333333333,NA,NA,NA,"","Pectinidae",-64,10.45,"Tropical",0
+"111","130","Lodeiros and Himmelman 1999","Lima scabra","Turpialito, Venezuela",0.5,0.583333333333333,NA,0.916666666666667,1,NA,NA,NA,NA,"","Limidae",-64,10.45,"Tropical",0
+"112","131","Loosanoff 1942","Ostrea virginica","Milford, CT",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-73.0666666666667,41.2333333333333,"Subtropical",0
+"113","132","Loosanoff 1953","Arctica islandica","Point Judith, RI",0.5,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Arcticidae",-71.4833333333333,41.3666666666667,"Subtropical",0
+"114","133","Lowe et al 1982","Mytilus edulis","Tal Y Foel, Anglesey UK",0.25,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-4.31666666666667,53.1333333333333,"Temperate",0
+"115","134","MacDonald and Bourne 1987","Patinopecten caurinus","St George Sound, BC",0.333333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,NA,"","Pectinidae",-123.433333333333,48.9166666666667,"Temperate",0
+"116","135","MacDonald and Thompson 1986","Placopecten magellanicus","Sunnyside, Newfoundland",0.666666666666667,0.75,NA,NA,NA,NA,NA,NA,NA,"","Pectinidae",-53.8833333333333,47.85,"Temperate",0
+"117","136","MacDonald and Thompson 1988","Placopecten magellanicus","New Jersey",0.75,0.916666666666667,NA,NA,NA,NA,NA,NA,NA,"","Pectinidae",-73.8833333333333,40.2166666666667,"Subtropical",0
+"118","137","MacDonald and Thompson 1988","Placopecten magellanicus","Sunnyside, Newfoundland",0.583333333333333,0.75,NA,NA,NA,NA,NA,NA,NA,"","Pectinidae",-53.8833333333333,47.85,"Temperate",0
+"119","138","Mane 1974","Katelysia opima","Kalbadevi Estuary",0.833333333333333,0.833333333333333,0.833333333333333,0.333333333333333,0.333333333333333,0.333333333333333,NA,NA,NA,"","Veneridae",73.2833333333333,17.0333333333333,"Tropical",0
+"120","139","Marroquin-Mora and Rice 2008","Mercenaria mercenaria","Providence River",0.5,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-71.3666666666667,41.75,"Subtropical",0
+"121","140","Matias et al 2013","Ruditapes decussatus","Algarve coast, Portugal",0.416666666666667,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-7.75,37.05,"Subtropical",0
+"122","141","Matias et al 2013","Ruditapes decussatus","Ria de Aveiro, Portugal",0.416666666666667,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-8.66666666666667,40.6166666666667,"Subtropical",0
+"123","143","Menenghetti et al 2004","Ruditapes decussatus","Venice Lagoon",0.416666666666667,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",12.2833333333333,45.2166666666667,"Temperate",0
+"124","144","Miac et al 1997","Mya arenaria","Puck Bay",0.583333333333333,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Myidae",18.45,54.6666666666667,"Temperate",0
+"125","145","Mirzaei et al 2017","Anadara granosa","Penang Island, Malaysia",0.0833333333333333,1,0.333333333333333,NA,NA,NA,NA,NA,NA,"spawns year round with peak in april","Arcidae",100.183333333333,5.33333333333333,"Tropical",1
+"126","146","Mladineo et al 2007","Modiolus barbatus","Mali Ston Bay",0.583333333333333,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",17.65,42.8666666666667,"Subtropical",0
+"127","147","Mohite et al 2009","Paphia malabarica","Kalbadevi Estuary",0.75,0.0833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Mesodesmatidae",73.2833333333333,17.0333333333333,"Tropical",0
+"128","148","Moller and Rosenberg 1983","Mya arenaria","Gullmarsvik",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Myidae",11.4833333333333,58.3,"Temperate",0
+"129","148","Moller and Rosenberg 1983","Cardium edule","Gullmarsvik",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",11.4833333333333,58.3,"Temperate",0
+"130","151","Morton 1989","Mytilopsis sallei","Hong Hong",1,0.166666666666667,0.0833333333333333,0.333333333333333,0.416666666666667,0.333333333333333,NA,NA,NA,"spawns twice a year","Dreissenidae",114.133333333333,22.3166666666667,"Tropical",0
+"131","152","Morvan and Ansell 1988","Ruditapes rhomboides","Bay of St. Malo, France",0.416666666666667,0.5,0.416666666666667,0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,"","Veneridae",-1.81666666666667,49.0166666666667,"Temperate",0
+"132","153","Moura et al 2008","Callista chione","Setubal, Portugal",0.0833333333333333,0.25,0.25,0.333333333333333,0.416666666666667,0.416666666666667,0.666666666666667,0.833333333333333,0.833333333333333,"spawns year round with 3 peaks","Veneridae",-8.81666666666667,38.4666666666667,"Subtropical",0
+"133","154","Narasimham 1988","Anadara granosa","Kakinada Bay, India",0.0833333333333333,1,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",82.4166666666667,16.9833333333333,"Tropical",1
+"134","156","Newell and Bayne 1980","Cardium edule","Tamar Estuary, Cornwall, England",0.5,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",-4.2,50.3,"Temperate",0
+"135","157","Newell et al 1982","Mytilus edulis","Shinnecock Bay, Long Island",0.75,0.333333333333333,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-72.4666666666667,40.85,"Subtropical",0
+"136","158","Newell et al 1982","Mytilus edulis","Stony Brook Creek, Long Island",0.333333333333333,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-73.1333333333333,40.9166666666667,"Subtropical",0
+"137","159","Nichols and Thompson 1982","Macoma balthica","San Francisco Bay",0.916666666666667,0.25,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Tellinidae",-122.316666666667,38.1,"Subtropical",0
+"138","160","Nott 1980","Abra tenuis","Four Mile Bridge UK",0.666666666666667,0.166666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-4.58333333333333,53.2833333333333,"Temperate",0
+"139","161","Nott 1980","Abra alba","Red Wharf Bay, UK",0.75,0.0833333333333333,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-4.18333333333333,53.3,"Temperate",0
+"140","162","Ojea et al 2004","Ruditapes decussatus","Galicia, Spain",0.416666666666667,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-8.66666666666667,43.3,"Subtropical",0
+"141","163","Paez-Osuna et al 1993","Crassostrea iridescens","",0.416666666666667,0.916666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Ostreidae",-106.783333333333,23.6666666666667,"Subtropical",0
+"142","163","Paez-Osuna et al 1993","Crassostrea corteziensis","",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-106.466666666667,23.25,"Subtropical",0
+"143","165","Park et al 2003","Gomphina veneriformis","Gangneung, Korea",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",129.016666666667,37.7833333333333,"Subtropical",0
+"144","166","Paulet et al 1985","Pecten maximus","Bay of Brest",0.333333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",-4.5,48.3333333333333,"Temperate",0
+"145","167","Paulet et al 1985","Pecten maximus","Bay of St. Brieuc",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-2.66666666666667,48.5,"Temperate",0
+"146","168","Perdue and Erickson 1984","Crassostrea rivularis","Oakland Bay, WA",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-123.05,47.2166666666667,"Temperate",0
+"147","168","Perdue and Erickson 1984","Crassostrea gigas","Oakland Bay, WA",0.666666666666667,0.333333333333333,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-123.05,47.2166666666667,"Temperate",0
+"148","170","Peterson and Fegley 1985","Mercenaria mercenaria","Cape Lookout",0.333333333333333,0.5,0.416666666666667,0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,"measured as gonadal mass","Veneridae",-76.55,34.6333333333333,"Subtropical",0
+"149","171","Pfitzenmeyer 1962","Mya arenaria","Solomons, Maryland",0.416666666666667,0.5,0.416666666666667,0.833333333333333,0.916666666666667,0.833333333333333,NA,NA,NA,"","Myidae",-76.4666666666667,38.3166666666667,"Subtropical",0
+"150","172","Ponurovsky and Yakovlev 1992","Ruditapes phillipinarum","Vostok Bay, Russia",0.416666666666667,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",132.733333333333,42.8833333333333,"Subtropical",0
+"151","173","Popovic et al 2013","Venus verrucosa","Kastela Bay, Croatia",0.5,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",16.3,43.5333333333333,"Subtropical",0
+"152","175","Purroy et al 2018","Callista chione","Cetina",0.25,0.25,0.666666666666667,0.333333333333333,NA,NA,NA,NA,NA,"","Veneridae",16.6833333333333,43.4333333333333,"Subtropical",0
+"153","176","Purroy et al 2018","Callista chione","Pag Bay",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",15,44.45,"Subtropical",0
+"154","177","Quayle 1943","Paphia staminea","Ladysmith Harbor, BC",0.333333333333333,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Mesodesmatidae",-123.8,48.9833333333333,"Temperate",0
+"155","178","Racotta et al 2003","Nodipecten subnodosus","Guerrero Negro, Baja California Sur, Mexico",0.333333333333333,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"via Racotta et al 2003","Pectinidae",-112.1,27.4333333333333,"Subtropical",0
+"156","178","Racotta et al 2003","Nodipecten subnodosus","Guerrero Negro, Baja California Sur, Mexico",0.333333333333333,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"via Racotta et al 2003","Pectinidae",-112.1,27.4333333333333,"Subtropical",0
+"157","179","Rao 1988","Meretrix casta","Mulky Estuary",0.666666666666667,0.416666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Veneridae",74.7833333333333,13.0666666666667,"Tropical",0
+"158","179","Rao 1988","Paphia malabarica","Mulky Estuary",0.833333333333333,0.166666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Mesodesmatidae",74.7833333333333,13.0666666666667,"Tropical",0
+"159","181","Remacha-Trivino and Anadon 2006","Solen marginatus","Santander Bay, Spain",0.333333333333333,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Solenidae",-3.76666666666667,43.45,"Subtropical",0
+"160","182","Remacha-Trivino and Anadon 2007","Solen marginatus","Eo Estuary, Spain",0.25,0.583333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Solenidae",-7.03333333333333,43.5166666666667,"Subtropical",0
+"161","183","Remacha-Trivino and Anadon 2008","Solen marginatus","Terron Estuary, Spain",0.416666666666667,0.666666666666667,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Solenidae",6.9,37.1833333333333,"Subtropical",0
+"162","184","Riascos 2006","Donax dentifer","Malaga Bay ",0.0833333333333333,1,0.666666666666667,NA,NA,NA,NA,NA,NA,"year-round","Donacidae",-77.2666666666667,4.08333333333333,"Tropical",1
+"163","185","Robert et al 1991","Ostrea edulis","Bay of Arcachon",0.333333333333333,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Ostreidae",-1.16666666666667,44.6666666666667,"Subtropical",0
+"164","186","Rodriguez-Astudillo et al 2005","Hyotissa hyotis","Espiritu Santo, Mexico",0.416666666666667,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"Gonadal index >10 percent","Gryphaeidae",-110.366666666667,24.4333333333333,"Subtropical",0
+"165","187","Rodriguez-Rua et al 2003","Scrobiculara plana","Guadalquivir Estuary, Spain",0.25,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Semelidae",-6.25,36.5166666666667,"Subtropical",0
+"166","188","Ropes 1968","Spisula solidissima","New Jersey",0.583333333333333,0.666666666666667,0.583333333333333,0.833333333333333,0.916666666666667,0.833333333333333,NA,NA,NA,"","Mactridae",-74.15,39.7833333333333,"Subtropical",0
+"167","189","Ropes and Stickney 1965","Mya arenaria","Boothbay Harbor, ME",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Myidae",-69.6166666666667,43.85,"Subtropical",0
+"168","190","Ropes and Stickney 1965","Mya arenaria","Plum Island, Massachusetts",0.583333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Myidae",-70.8,42.75,"Subtropical",0
+"169","191","Ropes and Stickney 1965","Mya arenaria","Sorrento, ME",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Myidae",-68.1833333333333,44.4666666666667,"Subtropical",0
+"170","192","Ruiz et al 1992","Ostrea edulis","San Cibran, Spain",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-9.15,42.8166666666667,"Subtropical",0
+"171","193","Saeedi et al 2009","Solen dactylus","Bandar Abbas, Iran",0.583333333333333,1,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Solenidae",56.35,27.2,"Subtropical",0
+"172","194","Sastry 1963","Aequipecten irradians","Alligator Harbor, FL",0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-84.3833333333333,29.9,"Subtropical",0
+"173","195","Sastry 1966","Aequipecten irradians","Duke University Marine Laboratory",0.75,0.916666666666667,NA,NA,NA,NA,NA,NA,NA,"","Pectinidae",-76.6666666666667,34.7166666666667,"Subtropical",0
+"174","196","Sastry 1970","Aequipecten irradians","Falmouth, MA",0.583333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",-70.6166666666667,41.55,"Subtropical",0
+"175","197","Sastry 1971","Aequipecten irradians","Beaufort, NC",0.75,0.916666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",-76.65,34.7166666666667,"Subtropical",0
+"176","198","Sato 1995","Phacosoma noduliferum","Tokyo Bay",0.5,0.666666666666667,NA,NA,NA,NA,NA,NA,NA,"","Veneridae",139.633333333333,35.3166666666667,"Subtropical",0
+"177","199","Serdar and Lok 2009","Ruditapes decussatus","Sufa Lagoon, Izmir",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",26.85,38.5166666666667,"Subtropical",0
+"178","200","Serna-Gallo et al 2014","Pteria sterna","Bahia de Acapulco, Mexico",0.0833333333333333,1,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Pteriidae",-99.9,16.8333333333333,"Tropical",1
+"179","201","Seshappa 1967","Meretrix casta","Beypore Estuary",0.583333333333333,0.666666666666667,0.583333333333333,0.75,0.916666666666667,0.833333333333333,NA,NA,NA,"","Veneridae",75.8,11.1666666666667,"Tropical",0
+"180","202","Shafee and Daoudi 1991","Ruditapes decussatus","Oulalidia, Morocco",0.5,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"Some activity as early as May","Veneridae",-9.01666666666667,32.7333333333333,"Subtropical",0
+"181","203","Siddiqui and Ahmed 2002","Ostrea nomades","Karachi, Pakistan",0.0833333333333333,1,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",66.9166666666667,24.8166666666667,"Subtropical",1
+"182","204","Sreedhar and Radhakrishnan 1995","Musculista senhausia","Cochin, India",0.0833333333333333,1,0.25,NA,NA,NA,NA,NA,NA,"","Mytildae",76.2166666666667,9.46666666666667,"Tropical",1
+"183","205","Stephen 1980","Crassostrea madrasensis","Mulky Estuary",0.333333333333333,0.5,0.416666666666667,0.833333333333333,0.916666666666667,0.916666666666667,NA,NA,NA,"","Ostreidae",74.7666666666667,13.0833333333333,"Tropical",0
+"184","206","Taylor and Venn 1979","Aequipecten opercularis","Cumbrae deep, UK",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-4.95,55.75,"Temperate",0
+"185","207","Thompson and Macdonald 1990","Placopecten magellanicus","Sunnyside, Newfoundland",0.75,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Pectinidae",-53.8833333333333,47.85,"Temperate",0
+"186","208","Toro et al 2008","Mytilus edulis","Trinity Bay, Newfoundland",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-53.4333333333333,47.9,"Temperate",0
+"187","208","Toro et al 2008","Mytilus trossulus","Trinity Bay, Newfoundland",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-53.4333333333333,47.9,"Temperate",0
+"188","210","Urrutia et al 1999","Ruditapes decussatus","Urdaibai Estuary",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-2.7,43.4,"Subtropical",0
+"189","216","Winther and Gray 1985","Mya arenaria","Oslofjord, Norway",0.416666666666667,0.416666666666667,0.416666666666667,0.666666666666667,0.75,0.75,NA,NA,NA,"","Myidae",10.7166666666667,59.8833333333333,"Temperate",0
+"190","217","Yan et al 2010","Cyclina sinensis","Yellow River Delta, China",0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",119.166666666667,37.8166666666667,"Subtropical",0
+"191","218","Yennawar et al 1999","Martesia striata","Zuari Estuary, Goa, India",0.0833333333333333,1,0.5,NA,NA,NA,NA,NA,NA,"","Pholadidae",73.9833333333333,15.5166666666667,"Tropical",1
+"192","219","Yildiz et al 2011","Ostrea edulis","Dardanelles, Turkey",0.75,1,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",26.7,40.3833333333333,"Subtropical",0
+"193","220","Yoo and Yoo 1984","Atrina pectinata japonica","Yoja Bay, Korea",0.333333333333333,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Pinnidae",127.566666666667,34.65,"Subtropical",0
+"194","223","Zandee et al 1980","Mytilus edulis","Dutch Wadden Sea",0.25,0.5,0.25,NA,NA,NA,NA,NA,NA,"","Mytilidae",6.01666666666667,53.1,"Temperate",0
+"195","224","Zeichen et al 2002","Donax trunculus","Apulia, Italy",0.25,0.583333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Donacidae",15.4333333333333,41.9166666666667,"Subtropical",0
+"196","225","Zwarts 1991","Macoma balthica","Groningen, Netherlands",NA,NA,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",6.33333333333333,53.4166666666667,"Temperate",0
+"197","225","Zwarts 1991","Scrobiculara plana","Groningen, Netherlands",NA,NA,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Semelidae",6.33333333333333,53.4166666666667,"Temperate",0
+"198","225","Zwarts 1991","Mya arenaria","Groningen, Netherlands",NA,NA,0.5,NA,NA,NA,NA,NA,NA,"","Myidae",6.33333333333333,53.4166666666667,"Temperate",0
+"199","225","Zwarts 1991","Cerastoderma edule","Groningen, Netherlands",NA,NA,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",6.33333333333333,53.4166666666667,"Temperate",0
+"200","230","Braley 1982","Saccostrea cuccullatta","Guam",0.0833333333333333,1,1,0.25,0.333333333333333,0.25,0.5,0.5,0.5,"","Ostreidae",144.683333333333,13.4333333333333,"Tropical",1
+"201","231","Bricelj et al 1987","Argopecten irradians","Sag Harbor, New York",0.416666666666667,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-72.3,41,"Subtropical",0
+"202","232","Bricelj et al 1987","Argopecten irradians","Barcelona Neck, New York",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-72.2833333333333,41,"Subtropical",0
+"203","233","Bricelj et al 1987","Argopecten irradians","Three Mile Harbor, New York",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-72.2666666666667,41,"Subtropical",0
+"204","234","Bricelj et al 1987","Argopecten irradians","Mashomack Point, NY",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-72.2333333333333,41.0333333333333,"Subtropical",0
+"205","235","Berge 1969","Crassostrea gigas","Tomales Bay",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-122.85,38.1166666666667,"Subtropical",0
+"206","235","Berge 1969","Crassostrea gigas","Tomales Bay",0.333333333333333,0.583333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-122.85,38.1166666666667,"Subtropical",0
+"207","236","Brousseau 1978","Mya arenaria","Annisquam River, Mass",0.416666666666667,0.666666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Myidae",-70.7,42.65,"Subtropical",0
+"208","237","Chetoui et al 2018","Mactra stultorum","Kalaat Andalous, Tunisia",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mactridae",10.25,37.05,"Subtropical",0
+"209","238","Chung et al 1987","Mactra chinensis","Kunson, South Korea",0.416666666666667,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Mactridae",126.683333333333,36.0333333333333,"Subtropical",0
+"210","239","Jones 1981","Spisula solidissima","NJ",0.416666666666667,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Mactridae",-74.0666666666667,39.8,"Subtropical",0
+"211","240","Jones 1981","Arctica islandica","Asbury Park, NJ",0.5,0.916666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Arcticidae",-73.6666666666667,40.25,"Subtropical",0
+"212","241","Hashizume et al 2012","Astarte borealis","Tokyo Bay",0.583333333333333,0.166666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Astartidae",139.933333333333,35.65,"Subtropical",0
+"213","242","Ibrahim et al 2015","Donax semistriatus","Idku, Egypt",0.25,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",30.05,31.5166666666667,"Subtropical",0
+"214","245","Rojas 1985","Donax denticulatus","Punta Araya beach, Venezuela",0.0833333333333333,0.5,0.416666666666667,0.583333333333333,1,0.916666666666667,NA,NA,NA,"","Donacidae",-64.2833333333333,10.6166666666667,"Tropical",0
+"215","246","Abd-Elghany 2013","Venerupis decussata","Port Said, Egypt",0.416666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",32.5,31.25,"Subtropical",0
+"216","253","Suarez et al 2005","Mytilus galloprovincialis","Vigo Estuary, Spain",0.916666666666667,0.333333333333333,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-8.7,42.2333333333333,"Subtropical",0
+"217","254","Tenjing et al 2017","Donax faba","Padukere, India",0.0833333333333333,1,0.5,NA,NA,NA,NA,NA,NA,"","Donacidae",74.7,13.35,"Tropical",1
+"218","255","Neuberger-Cywiak et al 1990","Donax trunculus","Acre, Israel",0.666666666666667,0.666666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Donacidae",35.0833333333333,32.9166666666667,"Subtropical",0
+"219","256","Nagabhushanam and Mane 1975","Katelysia opima","Ratnagiri, India",0.833333333333333,0.916666666666667,0.833333333333333,0.25,0.333333333333333,0.25,NA,NA,NA,"","Veneridae",73.3166666666667,16.9833333333333,"Tropical",0
+"220","257","Nagabhushanam and Dhamne 1977","Paphia laterisulca","Ratnagiri, India",0.75,0.916666666666667,0.75,0.0833333333333333,0.416666666666667,0.166666666666667,NA,NA,NA,"","Mesodesmatidae",73.3166666666667,16.9833333333333,"Tropical",0
+"221","258","Rao et al 1967","Solen kempi","Ratnagiri, India",0.833333333333333,0.25,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Solenidae",73.3166666666667,16.9833333333333,"Tropical",0
+"222","259","Durve 1965","Crassostrea gryphoides","Kelwa, India",0.583333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",72.7333333333333,19.6166666666667,"Tropical",0
+"223","260","Naidu 1970","Placopecten magellanicus","Port au Port Bay, Newfoundland",0.75,0.833333333333333,0.75,0.5,0.5,0.5,NA,NA,NA,"","Pectinidae",-58.7166666666667,48.55,"Temperate",0
+"224","262","Dukeman et al 2005","Ctenoides scaber","Boca Chica Key, Florida",0.5,0.916666666666667,0.666666666666667,0.166666666666667,0.333333333333333,0.166666666666667,NA,NA,NA,"","Limidae",-81.7166666666667,24.5833333333333,"Subtropical",0
+"225","263","El-Deeb et al 2018","Brachidontes pharaonis","Alexandria, Egypt",0.0833333333333333,1,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",29.5833333333333,36.1333333333333,"Subtropical",1
+"226","264","Feder et al 1979","Protothaca staminea","Simpson Bay, Alaska",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-145.9,60.65,"Temperate",0
+"227","265","Fournier 1992","Ostrea iridescens","Curu, Costa Rica",0.0833333333333333,1,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-84.9166666666667,9.78333333333333,"Tropical",1
+"228","266","Galinou-Mitsoudi and Sinis 1994","Lithophaga lithophaga","North Euboean Gulf, Greece",0.666666666666667,0.166666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",23.3666666666667,38.5333333333333,"Subtropical",0
+"229","267","Kandeel et al 2017","Donax variabilis","New Damietta shore, Egypt",0.333333333333333,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Donacidae",31.7333333333333,31.4666666666667,"Subtropical",0
+"230","270","Derbali et al 2009","Cerastoderma glaucum","Sfax, Tunisia",0.5,0.583333333333333,0.5,0.916666666666667,1,0.916666666666667,NA,NA,NA,"","Cardiidae",10.7666666666667,34.5666666666667,"Subtropical",0
+"231","273","Hurtado et al 2012","Crassostrea corteziensis","Laguna de Ceuta, Sinaloa",0.333333333333333,0.916666666666667,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-17.1833333333333,24.1,"Subtropical",0
+"232","274","Ke and Li 2013","Mactra quadrangularis","Shandong Peninsula, China",0.583333333333333,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mactridae",118.55,37.5833333333333,"Subtropical",0
+"233","276","Lauren 1982","Hinnites giganteus","Puget Sound, Washington",0.5,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-122.833333333333,48.75,"Temperate",0
+"234","277","Duprat-Bertazzi et al 2005","Hyotissa hyotis","La Ballena Island, Mexico",0.166666666666667,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Gryphaeidae",-110.416666666667,24.4833333333333,"Subtropical",0
+"235","278","Garcia-Dominguez et al 1994","Megapitaria aurantiaca","Isla Espiritu Santo, Mexico",0.0833333333333333,1,0.25,NA,NA,NA,NA,NA,NA,"","Veneridae",-110.333333333333,24.4666666666667,"Subtropical",1
+"236","279","Karray et al 2015","Cerastoderma glaucum","Sfax, Tunisia",0.166666666666667,0.333333333333333,0.166666666666667,0.583333333333333,0.583333333333333,0.583333333333333,0.916666666666667,0.916666666666667,0.916666666666667,"","Cardiidae",10.7,33.5166666666667,"Subtropical",0
+"237","280","Garcia-Dominguez et al 1993","Chione californiensis","Port of San Carlos",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-112.1,24.7833333333333,"Subtropical",0
+"238","281","Ayache et al 2016","Solen marginatus","Gulf of Gabes, Tunisia",0.416666666666667,0.416666666666667,0.416666666666667,0.75,1,0.833333333333333,NA,NA,NA,"","Solenidae",10.3333333333333,34.4166666666667,"Subtropical",0
+"239","282","Rinyod and Rahim et al 2011","Solen regularis","Asajaya Laut, Sarawak, Malaysia",0.333333333333333,0.75,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Solenidae",110.6,1.6,"Tropical",0
+"240","283","Rinyod and Rahim et al 2011","Solen regularis","Buntal River, Malaysia",0.416666666666667,0.833333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Solenidae",110.366666666667,1.7,"Tropical",0
+"241","285","Schweers et al 2006","Megapitaria squalida","Bahia Magdalena, Mexico",0.0833333333333333,1,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-112.016666666667,24.6833333333333,"Subtropical",1
+"242","286","Diadhiou and Pennec 2000","Crassostrea tulipa","Casamance, Senegal",0.0833333333333333,1,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-16.6666666666667,12.5333333333333,"Tropical",1
+"243","287","Wellesley-Cole and Kamara 1978","Crassostrea tulipa","Jui, Sierra Leone",0.0833333333333333,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-13.15,8.45,"Tropical",1
+"244","288","Tenjing 2016","Donax scortum","Padukere, India",0.0833333333333333,1,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Donacidae",74.7,13.35,"Tropical",1
+"245","289","Siung 1980","Isognomon alatus","Port Royal, Jamaica",0.666666666666667,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Isognomonidae",-76.8333333333333,17.9333333333333,"Tropical",0
+"246","290","Tirado and Salas 1999","Donax venustus","Fuengirola, Spain ",0.333333333333333,0.916666666666667,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",-4.61666666666667,36.5333333333333,"Subtropical",0
+"247","290","Tirado and Salas 1999","Donax semistriatus","Fuengirola, Spain ",0.166666666666667,0.916666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",-4.61666666666667,36.5333333333333,"Subtropical",0
+"248","292","Tirado et al 2003","Venus verrucosa","Malaga Bay ",0.0833333333333333,1,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",-4.8,36.5,"Subtropical",1
+"249","293","Brock and Wolowicz  1994","Cerastoderma glaucum","Gdansk Bay, Poland",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",18.55,54.5166666666667,"Temperate",0
+"250","294","Brock and Wolowicz  1994","Cerastoderma glaucum","Marennes-Oleron",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",-1.21666666666667,45.8166666666667,"Temperate",0
+"251","295","Brock and Wolowicz  1994","Cerastoderma glaucum","Arcachon Basin",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Cardiidae",-1.18333333333333,44.65,"Subtropical",0
+"252","296","Brock and Wolowicz  1994","Cerastoderma glaucum","Limfjord",0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Cardiidae",8.95,56.9,"Temperate",0
+"253","297","Villalejo-Fuerte and Ochoa-Baez 1993","Argopecten circularis","Bahia Conception, BCS, Mexico",0.75,0.416666666666667,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-111.616666666667,26.4833333333333,"Subtropical",0
+"254","298","Brousseau 1982b","Geukensia demissa","Westport, Connecticut",0.5,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-73.3333333333333,41.1166666666667,"Subtropical",0
+"255","299","Brousseau 1982","Petricola pholadiformis","Milford, CT",0.416666666666667,0.833333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pholadidae",-73.0833333333333,41.2,"Subtropical",0
+"256","301","Peharda et al 2006","Arca noae","Mali Ston Bay",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Arcidae",17.65,42.8666666666667,"Subtropical",0
+"257","303","Rao 1951","Crassostrea madrasensis","Chennai Harbor, India",0.916666666666667,0.0833333333333333,0.833333333333333,0.25,0.333333333333333,0.25,NA,NA,NA,"","Ostreidae",80.2833333333333,13.0833333333333,"Tropical",0
+"258","304","Rao 1967","Donax cuneatus","Triplicane Beach, Chennai, India",0.0833333333333333,0.5,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",80.2833333333333,13.0666666666667,"Tropical",0
+"259","305","Rharrass et al 2016","Acanthocardia tuberculata","M'diq Bay, Morocco",0.416666666666667,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",-5.31666666666667,35.6833333333333,"Subtropical",0
+"260","307","Thorarinsdottir 1993","Chlamys islandica","Breidafjordur, Iceland",0.583333333333333,0.583333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",22.85,65.05,"Temperate",0
+"261","308","Pinn et al 2005","Pholas dactylus","Lyme Regis, UK",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pholadidae",2.93333333333333,50.7166666666667,"Temperate",0
+"262","309","Rakov 1988","Ruditapes phillipinarum","Possyet, Russia",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"Via Ponurovskii 2008","Veneridae",130.8,42.6666666666667,"Subtropical",0
+"263","312","Khalil et al 2017","Anadara granosa","Banda Aceh, Indonesia",1,0.916666666666667,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",95.3166666666667,5.55,"Tropical",0
+"264","313","Khalil et al 2017","Anadara granosa","Lhokseumawe, Indonesia",0.166666666666667,0.833333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Arcidae",97.1333333333333,5.18333333333333,"Tropical",0
+"265","314","Khalil et al 2017","Anadara granosa","Pulau Pinang, Indonesia",0.5,0.75,0.666666666666667,1,0.333333333333333,0.166666666666667,NA,NA,NA,"","Arcidae",100.333333333333,5.41666666666667,"Tropical",0
+"266","315","Galimany et al 2015","Callista chione","Maresme, Spain",0.166666666666667,0.583333333333333,0.416666666666667,0.75,0.916666666666667,0.833333333333333,NA,NA,NA,"","Veneridae",2.33333333333333,41.3,"Subtropical",0
+"267","324","Mokady et al 1993","Lithophaga lessepsiana","Eilat, Israel",1,0.0833333333333333,1,NA,NA,NA,NA,NA,NA,"","Mytilidae",34.9333333333333,29.5333333333333,"Subtropical",0
+"268","324","Mokady et al 1993","Lithophaga simplex","Eilat, Israel",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",34.9333333333333,29.5333333333333,"Subtropical",0
+"269","324","Mokady et al 1993","Lithophaga purpurea","Eilat, Israel",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",34.9333333333333,29.5333333333333,"Subtropical",0
+"270","325","Nakano et al 2012","Astarte borealis","Ariake Sound, Japan",0.416666666666667,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Astartidae",130.6,32.7833333333333,"Subtropical",0
+"271","326","Power et al 2004","Anadara ovalis","Matanzas River, Florida",0.833333333333333,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Arcidae",-81.2166666666667,29.6333333333333,"Subtropical",0
+"272","327","Power et al 2005","Noetia ponderosa","Cedar Key, Florida",0.416666666666667,0.166666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Noetiidae",-83.0333333333333,29.1333333333333,"Subtropical",0
+"273","328","Raleigh and Keegan 2006","Scrobiculara plana","Mweeloon Bay, Ireland",0.416666666666667,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-9,53.2333333333333,"Temperate",0
+"274","329","Hughes","Scrobiculara plana","Conwy Bay, Wales",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",3.85,53.3,"Temperate",0
+"275","330","Paes-da-Franca 1956","Scrobiculara plana","Tage estuary, Portugal",0.0833333333333333,0.5,0.25,0.5,0.833333333333333,0.583333333333333,NA,NA,NA,"Via Hughes","Semelidae",-8.93333333333333,38.7833333333333,"Subtropical",0
+"276","331","Malachowski 1988","Hinnites giganteus","Humboldt Bay, CA",0.666666666666667,0.833333333333333,0.75,0.0833333333333333,0.5,0.25,NA,NA,NA,"","Pectinidae",-124.166666666667,40.8166666666667,"Subtropical",0
+"277","332","Toral-Barza and Gomez 1985","Anadara antiquata","Calatagan, Philippines",0.0833333333333333,1,0.25,NA,NA,NA,NA,NA,NA,"","Arcidae",120.616666666667,13.8166666666667,"Tropical",1
+"278","334","Hernandez-Olalde et al 2007","Pteria sterna","Ojo de Liebre Lagoon, BCS, Mexico",0.833333333333333,0.0833333333333333,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Pteriidae",-114.333333333333,28,"Subtropical",0
+"279","335","Villalejo-Fuerte et al 1995","Glycymeris gigantea","Bahia Conception, BCS, Mexico",0.333333333333333,0.0833333333333333,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Glycymerididae",-111.616666666667,26.4833333333333,"Subtropical",0
+"280","337","Rachor 1975","Nucula nitidosa","German Bight",0.666666666666667,0.416666666666667,0.25,NA,NA,NA,NA,NA,NA,"","Nuculidae",7.88333333333333,54.1333333333333,"Temperate",0
+"281","338","Wilson and Simons 1985","Ostrea edulis","Ballinakill Harbour, Ireland",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-7,52.25,"Temperate",0
+"282","338","Wilson and Simons 1985","Ostrea edulis","Kilkieran Bay, Ireland",0.583333333333333,0.75,0.583333333333333,0.333333333333333,0.5,0.333333333333333,NA,NA,NA,"","Ostreidae",-6.26666666666667,53.3166666666667,"Temperate",0
+"283","339","Hamdani and Soltani-Mazouni 2011","Donax trunculus","Gulf of Annaba, Algeria",0.0833333333333333,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Donacidae",8.83333333333333,36.8333333333333,"Subtropical",0
+"284","340","Yurimoto et al 2008","Scapharca kagoshimensis","Ariake Bay, Japan",0.583333333333333,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Arcidae",130.6,32.7833333333333,"Subtropical",0
+"285","341","Yurimoto et al 2014","Anadara granosa","Sungai Muloh, Malaysia",0.916666666666667,0.25,1,NA,NA,NA,NA,NA,NA,"","Arcidae",101.616666666667,3.16666666666667,"Tropical",0
+"286","342","Park et al 2001","Scapharca broughtonii","Chinju Bay, Korea",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",128.033333333333,35.0833333333333,"Subtropical",0
+"287","343","Ceballos-Vazquez et al 2000","Pinna rugosa","Bahia Conception, BCS, Mexico",0.25,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pinnidae",-111.616666666667,26.4833333333333,"Subtropical",0
+"288","344","Lista et al 2008","Arca zebra","Chacopata, Venezuela",0.0833333333333333,1,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",-63.8166666666667,10.6833333333333,"Tropical",1
+"289","346","Berg and Alatalo 1985","Asaphis deflorata","Grand Bahama Island",0.666666666666667,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Psammobiidae",-78.3833333333333,26.6,"Subtropical",0
+"290","347","Benomar et al 2009","Perna perna","Agadir, Morocco",0.416666666666667,0.666666666666667,0.583333333333333,0.916666666666667,1,0.916666666666667,NA,NA,NA,"","Mytilidae",-9.88333333333333,30.6333333333333,"Subtropical",0
+"291","348","Alatalo et al 1984","Codakia orbicularis","Grand Bahama Island",0.416666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Lucinidae",-78.3833333333333,26.6,"Subtropical",0
+"292","349","Kefi et al 2014","Lithophaga lithophaga","Bizerte Bay, Tunisia",0.666666666666667,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",9.76666666666667,37.1333333333333,"Subtropical",0
+"293","350","Tirado et al 2002","Callista chione","Fuengirola, Spain ",0.0833333333333333,1,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-4.71666666666667,36.4666666666667,"Subtropical",1
+"294","351","Thorarinsdottir and Gunnarsson 2003","Mytilus edulis","Breidafjordur, Iceland",0.583333333333333,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-22.85,65.05,"Temperate",0
+"295","351","Thorarinsdottir and Gunnarsson 2003","Mytilus edulis","Mjoifjordur, Iceland",0.583333333333333,0.916666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-18.9,65.9666666666667,"Temperate",0
+"296","352","Sundet and Lee 1984","Chlamys islandica","Tromso, Norway",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",18.9166666666667,69.5166666666667,"Boreal",0
+"297","353","Skreslet 1973","Chlamys islandica","Balsfjord, Norway",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",19,69.5,"Boreal",0
+"298","354","Smaoui-Damak et al 2012","Ruditapes phillipinarum","Sfax, Tunisia",0.666666666666667,1,0.75,NA,NA,NA,NA,NA,NA,"","Veneridae",10.7,34.5833333333333,"Subtropical",0
+"299","355","Sola 1997","Scrobiculara plana","Bidasoa Estuary, Spain",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-1.75,43.3333333333333,"Subtropical",0
+"300","356","Elkaim 1976","Scrobiculara plana","Bou Regreg, Morocco",0.583333333333333,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Semelidae",-6.78333333333333,33.9,"Subtropical",0
+"301","357","Bachelet 1981","Scrobiculara plana","La Gironde, France",0.5,0.75,0.583333333333333,0.166666666666667,0.333333333333333,0.25,NA,NA,NA,"Via Sola","Semelidae",-1.06666666666667,45.5833333333333,"Temperate",0
+"302","358","Bachelet 1981","Scrobiculara plana","Arcachon Basin",0.416666666666667,0.5,0.416666666666667,0.0833333333333333,0.166666666666667,0.0833333333333333,NA,NA,NA,"Via Sola","Semelidae",-1.16666666666667,44.6666666666667,"Subtropical",0
+"303","359","Silva 1991","Scrobiculara plana","Tajo, Portugal",0.333333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"Via Sola","Semelidae",-8.93333333333333,38.7833333333333,"Subtropical",0
+"304","360","Silva 1991","Scrobiculara plana","Mira, Portugal",0.333333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"Via Sola","Semelidae",-8.76666666666667,40.4333333333333,"Subtropical",0
+"305","361","Villalejo-Fuerte and Garcia-Dominguez 1998","Spondylus leucacanthus","Isla Danzante, Gulf of California",0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Spondylidae",-111.766666666667,25.8166666666667,"Subtropical",0
+"306","362","Villalejo-Fuerte et al 1996","Laevicardium elatum","Bahia Conception, BCS, Mexico",0.833333333333333,0.333333333333333,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Cardiidae",-111.616666666667,26.4833333333333,"Subtropical",0
+"307","363","Villalejo-Fuerte et al 2002","Spondylus calcifer","Bahia de Loreto, BCS, Mexico",0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Spondylidae",-111.266666666667,25.8166666666667,"Subtropical",0
+"308","364","Sweeney and Walker 1998","Brachidontes variabilis","Wassaw Island, GA",0.416666666666667,0.166666666666667,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-80.95,31.9333333333333,"Subtropical",0
+"309","367","Ling 1970","Crassostrea cucullata","Singapore",0.0833333333333333,1,NA,NA,NA,NA,NA,NA,NA,"via Lasiak","Ostreidae",103.883333333333,1.25,"Tropical",1
+"310","368","Awati and Rai 1931","Crassostrea cucullata","Mumbai, India",0.0833333333333333,1,NA,NA,NA,NA,NA,NA,NA,"via Lasiak","Ostreidae",72.8833333333333,19.0833333333333,"Tropical",1
+"311","371","Chung and Ryou 2000","Astarte borealis","Naechodo, Korea",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Astartidae",126.65,35.9,"Subtropical",0
+"312","372","Chung et al 1986","Solen strictus","Naechodo, Korea",0.5,0.583333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Solenidae",126.65,35.9,"Subtropical",0
+"313","372","Chung et al 1986","Solen gordonis","Dadaepo, Korea",0.416666666666667,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Solenidae",128.966666666667,35.05,"Subtropical",0
+"314","373","Chung et al 2007","Mactra chinensis","Simpo, Korea",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mactridae",126.633333333333,35.8333333333333,"Subtropical",0
+"315","374","Angel-Perez et al 2007","Atrina maura","Oaxaca, Mexico",0.166666666666667,0.5,0.25,NA,NA,NA,NA,NA,NA,"","Pinnidae",-98.0833333333333,16.1833333333333,"Tropical",0
+"316","375","Ansell et al 1972","Donax incarnatus","Shertallai, India",0.0833333333333333,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",76.3,9.68333333333333,"Tropical",1
+"317","377","Ansell 1974","Nucula sulcata","Cumbrae deep, UK",0.916666666666667,0.916666666666667,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Nuculidae",-4.95,55.75,"Temperate",0
+"318","388","Ansell 1975","Astarte montagui","Wemyss Bay Pier",0.916666666666667,0.25,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Astartidae",-4.88333333333333,55.8833333333333,"Temperate",0
+"319","389","Bantoto and Ilano 2012","Lutraria philippinarum","",0.333333333333333,0.75,0.5,0.75,0.0833333333333333,0.0833333333333333,NA,NA,NA,"","Mactridae",123.133333333333,9.63333333333333,"Tropical",0
+"320","390","Wade 1968","Donax denticulatus","Port Henderson, Jamaica",0.0833333333333333,1,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Donacidae",-76.8666666666667,17.95,"Tropical",1
+"321","391","Wada et al 1995","Pinctada fucata","Zamami Island, Okinawa",0.5,0.333333333333333,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Pteriidae",127.3,26.2333333333333,"Subtropical",0
+"322","392","Pearson et al 1929","Pinctada fucata","Gulf of Mannar, Sri Lanka",0.0833333333333333,1,0.416666666666667,0.0833333333333333,1,0.916666666666667,NA,NA,NA,"Via Wada et al 1995","Pteriidae",79.7833333333333,9.08333333333333,"Tropical",1
+"323","393","Uemoto 1958","Pinctada fucata","Mie, Japan",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"Via Wada et al 1995","Pteriidae",136.616666666667,34.75,"Subtropical",0
+"324","396","Wisely 1964","Mytilus edulis planulatus","Garden Island, Australia",0.5,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Mytilidae",151.233333333333,33.85,"Subtropical",0
+"325","397","Wolowicz 1987","Cerastoderma glaucum","Gdansk Bay, Poland",0.5,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",18.55,54.5166666666667,"Temperate",0
+"326","397","Wolowicz 1987","Parvicardium hauniense","Gdansk Bay, Poland",0.416666666666667,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",18.55,54.5166666666667,"Temperate",0
+"327","398","Garcia-Dominguez et al 1996","Pinctada mazatlanica","Isla Espiritu Santo, Mexico",0.0833333333333333,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pteriidae",-110.366666666667,24.4333333333333,"Subtropical",1
+"328","399","Garcia-Dominguez et al 1998","Periglypta multicostata","Isla Espiritu Santo, Mexico",0.0833333333333333,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-110.366666666667,24.4333333333333,"Subtropical",1
+"329","401","Hwang et al 2007","Pinctada fucata","Hainan Island, China",0.416666666666667,0.416666666666667,0.416666666666667,0.833333333333333,0.833333333333333,0.833333333333333,NA,NA,NA,"","Pteriidae",NA,18.4,"Tropical",0
+"330","401","Hwang et al 2007","Pinctada margaritifera","Hainan Island, China",0.583333333333333,0.583333333333333,0.583333333333333,0.916666666666667,0.916666666666667,0.916666666666667,NA,NA,NA,"","Pteriidae",NA,18.4,"Tropical",0
+"331","402","Rowell et al 1990","Arctica islandica","St. Mary's Bay, Nova Scotia",0.75,0.5,0.25,NA,NA,NA,NA,NA,NA,"","Arcticidae",-66.0166666666667,44.4833333333333,"Subtropical",0
+"332","403","Gibbs 1984","Abra tenuis","Plymouth Sound, UK",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-4.18333333333333,50.4,"Temperate",0
+"333","404","Giguere et al 1994","Placopecten magellanicus","Iles-de-la-Madeline, Canada",0.75,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Pectinidae",NA,47.35,"Temperate",0
+"334","404","Giguere et al 1994","Chlamys islandica","Iles-de-la-Madeline, Canada",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",NA,47.35,"Temperate",0
+"335","405","Sarkis et al 2006","Argopecten gibbus","Harrington Sound, Bermuda",0.0833333333333333,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-64.7166666666667,32.3166666666667,"Subtropical",0
+"336","406","Sarkis et al 1993","Arca zebra","Harrington Sound, Bermuda",0.5,0.5,0.5,0.916666666666667,0.916666666666667,0.916666666666667,NA,NA,NA,"","Arcidae",-64.7166666666667,32.3166666666667,"Subtropical",0
+"337","407","Jagadis and Rajagopal 2007","Gafrarium tumidum","Chinnapalam, India",0.0833333333333333,1,0.916666666666667,0.0833333333333333,1,0.333333333333333,NA,NA,NA,"","Veneridae",78.1333333333333,8.58333333333333,"Tropical",1
+"338","408","Thangavelu and Poovannan 1994","Meretrix casta","Muttukudu Backwater, India",0.0833333333333333,1,0.25,0.0833333333333333,1,0.666666666666667,NA,NA,NA,"","Veneridae",80.2333333333333,12.8166666666667,"Tropical",1
+"339","409","Beauchamp 1996","Lasaea subviridis","Santa Cruz, California",0.0833333333333333,1,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Lasaeidae",122.083333333333,36.95,"Subtropical",1
+"340","410","Thompson and Nichols 1988","Macoma balthica","San Francisco, CA",1,0.333333333333333,0.166666666666667,0.666666666666667,0.833333333333333,0.75,NA,NA,NA,"","Tellinidae",122.233333333333,37.6666666666667,"Subtropical",0
+"341","411","Freites et al 2010","Anadara notabilis","Chacopata, Venezuela",1,0.916666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",-63.8166666666667,10.7166666666667,"Tropical",0
+"342","412","Richardson et al 1999","Pinna nobilis","Villaricos, Spain",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Pinnidae",-1.76666666666667,37.25,"Subtropical",0
+"343","413","Calabrese 1970","Mulinia lateralis","New Haven, CT",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mactridae",-72.9333333333333,41.3,"Subtropical",0
+"344","412","Harvey and Gage 1985","Nuculoma tenuis","Loch Etive",0.0833333333333333,0.166666666666667,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Nuculidae",-5.06666666666667,56.5666666666667,"Temperate",0
+"345","413","Kim et al 2005","Saxidomus purpuratus","",0.416666666666667,0.833333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",126.133333333333,36.7166666666667,"Subtropical",0
+"346","414","McGrath and Foighil 1986","Lasaea rubra","Carnsore Point, Ireland",0.416666666666667,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Lasaeidae",6.35,52.1666666666667,"Temperate",0
+"347","415","Chung et al 2011","Cyclina sinensis","Simpo, Korea",0.5,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",126.633333333333,35.8333333333333,"Subtropical",0
+"348","418","Darriba et al 2004","Ensis arcuatus","Cies Islands, Spain",0.166666666666667,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pharidae",-8.86666666666667,42.2333333333333,"Subtropical",0
+"349","419","Li et al 2006","Crassostrea plicatula","Rushan Bay, China",0.583333333333333,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",121.466666666667,36.7166666666667,"Subtropical",0
+"350","421","Limpanont et al 2011","Heteromacoma irus","Jeju Island, Korea",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Tellinidae",126.733333333333,33.55,"Subtropical",0
+"351","422","Lopez et al 1997","Pinctada mazatlanica","Isla Pan de Azucar, Costa Rica",0.0833333333333333,1,0.5,0.0833333333333333,1,0.833333333333333,NA,NA,NA,"","Pteriidae",-84.9,9.93333333333333,"Tropical",1
+"352","423","Luna-Gonzalez et al 2000","Argopecten ventricosus","Rada del Puerto de Pichilingue, Mexico",0.583333333333333,1,0.666666666666667,0.25,0.416666666666667,0.333333333333333,NA,NA,NA,"","Pectinidae",-110.316666666667,24.2666666666667,"Subtropical",0
+"353","426","Kang et al 2007","Coecella chinensis","Jeju Island, Korea",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mesodesmatidae",126.733333333333,33.4333333333333,"Subtropical",0
+"354","428","Shafee 1981","Mimachlamys varia","Bay of Brest, France",0.416666666666667,0.5,0.416666666666667,0.75,0.75,0.75,NA,NA,NA,"","Pectinidae",-4.45,48.2833333333333,"Temperate",0
+"355","429","Shafee 1989","Perna picta","Rabat, Morocco",0.166666666666667,0.416666666666667,0.25,NA,NA,NA,NA,NA,NA,"","Mytilidae",-6.95,33.9666666666667,"Subtropical",0
+"356","430","Ramon et al 1995","Donax trunculus","Cullera, Spain",0.5,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Donacidae",0.25,39.15,"Subtropical",0
+"357","431","Rae 1978","Rexithaerus secta","Tomales Bay",0.583333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Tellinidae",-122.933333333333,38.2333333333333,"Subtropical",0
+"358","431","Rae 1978","Macoma nasuta","Tomales Bay",0.666666666666667,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",-122.933333333333,38.2333333333333,"Subtropical",0
+"359","432","Bourne and Smith 1972","Tresus capax","Strait of Georgia, British Columbia",0.166666666666667,0.416666666666667,0.25,NA,NA,NA,NA,NA,NA,"","Mactridae",-123.566666666667,49.3833333333333,"Temperate",0
+"360","433","Parveen et al 2018","Placuna placenta","Sonmiani Bay, Pakistan",0.0833333333333333,1,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Placunidae",66.5833333333333,25.4166666666667,"Subtropical",1
+"361","434","Gallucci and Gallucci 1982","Clinocardium nuttallii","Garrison Bay, Washington",0.333333333333333,0.916666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Cardiidae",-128.133333333333,48.5833333333333,"Temperate",0
+"362","435","Mattox 1949","Crassostrea rhizophorae","Boqueron Bay, Puerto Rico",0.0833333333333333,1,NA,NA,NA,NA,NA,NA,NA,"","Ostreidae",-67.1666666666667,18,"Tropical",1
+"363","436","Metaxatos 2004","Callista chione","Euboean Gulf, Greece",0.0833333333333333,1,1,NA,NA,NA,NA,NA,NA,"","Veneridae",23.45,38.5666666666667,"Subtropical",1
+"364","437","Moore and Lopez 1969","Chione cancellata","Biscayne Bay, Florida",0.0833333333333333,0.25,0.0833333333333333,0.416666666666667,0.833333333333333,0.5,NA,NA,NA,"","Veneridae",-80.2333333333333,25.5666666666667,"Subtropical",0
+"365","438","Fraser 1967","Tagelus divisus","Biscayne Bay, Florida",1,0.25,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Solecurtidae",-80.2333333333333,25.5666666666667,"Subtropical",0
+"366","439","Miller et al 1981","Argopecten gibbus","Cape Canaveral, Florida",0.916666666666667,0.5,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-80.65,28.8,"Subtropical",0
+"367","441","Parsons et al 1992","Placopecten magellanicus","Passamaquoddy Bay, Canada",0.666666666666667,0.666666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-67,45.0833333333333,"Temperate",0
+"368","442","Davis and Wilson 1983","Nucula turgida","Dublin Bay, Ireland",0.583333333333333,0.75,0.75,NA,NA,NA,NA,NA,NA,"","Nuculidae",6.26666666666667,53.35,"Temperate",0
+"369","443","Duinker and Nylund 2002","Pecten maximus","Raunefjorden, Norway",0.25,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",5.08333333333333,60.2666666666667,"Temperate",0
+"370","444","Ivell 1979a","Cerastoderma glaucum","Lago Lungo, Italy",0.333333333333333,0.666666666666667,0.416666666666667,0.833333333333333,0.916666666666667,0.833333333333333,0.0833333333333333,0.25,0.166666666666667,"","Cardiidae",13.4,41.2833333333333,"Subtropical",0
+"371","445","Ivell 1979b","Cerastoderma glaucum","Widewater, Sussex",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Cardiidae",-0.3,50.8166666666667,"Temperate",0
+"372","489","Maloy et al 2003","Mytilus edulis","Cobscook Bay, Maine",0.583333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-67.1333333333333,44.9333333333333,"Subtropical",0
+"373","489","Maloy et al 2003","Mytilus trossulus","Cobscook Bay, Maine",0.583333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-67.1333333333333,44.9333333333333,"Subtropical",0
+"374","493","Rajagopal et al 1998","Perna viridis","Edaiyur, India",0.75,0.166666666666667,0.916666666666667,0.333333333333333,0.583333333333333,0.5,NA,NA,NA,"","Mytilidae",80.1833333333333,12.5666666666667,"Tropical",0
+"375","494","Reddiah 1962","Talochlamys pusio","Isle of Man",0.416666666666667,0.666666666666667,0.5,0.916666666666667,0.0833333333333333,0.916666666666667,NA,NA,NA,"","Pectinidae",-4.8,54.0333333333333,"Temperate",0
+"376","494","Reddiah 1962","Mimachlamys varia","Isle of Man",0.5,0.5,0.5,0.75,0.916666666666667,0.75,NA,NA,NA,"","Pectinidae",-4.8,54.0333333333333,"Temperate",0
+"377","495","Lubet 1962","Mimachlamys varia","Arcachon Basin",0.416666666666667,0.5,0.416666666666667,0.75,0.75,0.75,NA,NA,NA,"","Pectinidae",-1.16666666666667,44.6666666666667,"Subtropical",0
+"378","494","Reddiah 1962","Chlamys tigerina","Isle of Man",0.5,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-4.8,54.0333333333333,"Temperate",0
+"379","494","Reddiah 1962","Palliolum striatum","Isle of Man",0.583333333333333,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-4.8,54.0333333333333,"Temperate",0
+"380","494","Reddiah 1962","Palliolum incomparabile","Isle of Man",0.5,0.5,0.5,0.833333333333333,0.916666666666667,0.833333333333333,NA,NA,NA,"","Pectinidae",-4.8,54.0333333333333,"Temperate",0
+"381","496","King et al 1989","Mytilus edulis","Galway Bay",0.25,0.75,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-9.5,53.2166666666667,"Temperate",0
+"382","499","Barber et al 2005","Perna viridis","Tampa Bay, Florida",0.333333333333333,0.416666666666667,0.333333333333333,0.75,0.916666666666667,0.75,NA,NA,NA,"","Mytilidae",-82.6666666666667,28,"Subtropical",0
+"383","503","Chung et al 2010","Ruditapes phillipinarum","Simpo, Korea",0.5,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",126.633333333333,35.8333333333333,"Subtropical",0
+"384","504","Ko 1957","Ruditapes phillipinarum","Tokyo Bay",0.333333333333333,0.583333333333333,0.416666666666667,0.75,0.916666666666667,0.75,NA,NA,NA,"","Veneridae",139.633333333333,35.3166666666667,"Subtropical",0
+"385","507","Dibacco et al 1995","Placopecten magellanicus","Georges Bank, Gulf of Maine",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-66.5,42,"Subtropical",0
+"386","511","Sunila 1981","Mytilus edulis","Tvarminne, Finland",0.416666666666667,0.166666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",23.25,59.85,"Temperate",0
+"387","512","Xie and Burnell 1994","Ruditapes phillipinarum","Cork Harbour, Ireland",0.75,0.916666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",8.28333333333333,51.8333333333333,"Temperate",0
+"388","513","Xie and Burnell 1994","Ruditapes decussatus","Cork Harbour, Ireland",0.666666666666667,0.75,0.75,NA,NA,NA,NA,NA,NA,"","Veneridae",8.28333333333333,51.8333333333333,"Temperate",0
+"389","519","McGreer 1983","Macoma balthica","Fraser river estuary, BC",0.5,0.583333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Tellinidae",-123.15,49.0666666666667,"Temperate",0
+"390","520","Hennick 1970","Patinopecten caurinus","Yakutat, Alaska",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-144.566666666667,59.8,"Temperate",0
+"391","521","Hennick 1970","Patinopecten caurinus","Kodiak, Alaska",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-152.3,58.1,"Temperate",0
+"392","522","Thompson 1977","Placopecten magellanicus","Placentia Bay, Newfoundland",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",-54.1833333333333,47.1,"Temperate",0
+"393","526","Hmida et al 2010","Solen marginatus","Sfax, Tunisia",0.583333333333333,1,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Solenidae",10.7666666666667,34.5666666666667,"Subtropical",0
+"394","531","Chambers and Milne 1975","Macoma balthica","Ythan Estuary, Scotland",0.166666666666667,0.333333333333333,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",-2,57.3166666666667,"Temperate",0
+"395","532","Gilbert 1978","Macoma balthica","Rand Harbor, Falmouth, MA",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",-70.6166666666667,41.55,"Subtropical",0
+"396","533","Joseph and Madhastha 1984","Crassostrea madrasensis","Mulky Estuary",0.916666666666667,0.25,0.0833333333333333,0.25,0.583333333333333,0.416666666666667,NA,NA,NA,"","Ostreidae",75.7833333333333,13.0833333333333,"Tropical",0
+"397","535","Kennedy and Battle 1963","Crassostrea virginica","Malpeque Bay, PEI, Canada",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-63.6833333333333,46.5333333333333,"Temperate",0
+"398","536","Yoon et al 2008","Crassostrea ariakensis","Seomjin River estuary, Korea",0.583333333333333,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",127.8,34.9333333333333,"Subtropical",0
+"399","538","Tettelbach et al 1999","Argopecten irradians","Flanders Bay, NY",0.5,0.583333333333333,0.5,0.75,0.916666666666667,0.75,NA,NA,NA,"","Pectinidae",-72.6,40.9166666666667,"Subtropical",0
+"400","539","Strohmeier et al 2000","Pecten maximus","Raunefjorden, Norway",0.25,0.75,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",5.08333333333333,60.2666666666667,"Temperate",0
+"401","540","Roman et al 2002","Aequipecten opercularis","Ria de Arosa, Spain",0.0833333333333333,0.75,0.25,NA,NA,NA,NA,NA,NA,"","Pectinidae",8.9,42.5666666666667,"Subtropical",0
+"402","541","Chang and Lee 1982","Fulvia mutica","Gamak Bay, Yeosu, Korea",0.583333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Cardiidae",127.716666666667,34.6166666666667,"Subtropical",0
+"403","543","Leonard 1968","Ostrea edulis","Tomales Bay",0.416666666666667,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-122.85,38.1166666666667,"Subtropical",0
+"404","552","Hancock and Franklin 1972","Cerastoderma edule","Llanrhidian, UK",0.5,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Cardiidae",-4.18333333333333,51.6166666666667,"Temperate",0
+"405","556","Christo and Absher 2006","Crassostrea rhizophorae","Guaratuba Bay, Brazil",0.0833333333333333,1,0.25,NA,NA,NA,NA,NA,NA,"","Ostreidae",-48.6333333333333,25.8666666666667,"Subtropical",1
+"406","557","da Silva et al 2009","Ostrea edulis","Coron, Spain",0.333333333333333,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",-8.8,42.5833333333333,"Subtropical",0
+"407","3","Ahn et al 2003","Laternula elliptica","Marian Cove, Antarctica",0.416666666666667,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Laternulidae",-58.7833333333333,-62.2166666666667,"Temperate",0
+"408","19","Arendse et al 2008","Pecten sulcicostatus","False Bay, South Africa",1,0.25,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",18.4666666666667,-34.2333333333333,"Subtropical",0
+"409","25","Baron 1992","Atactodea striata","Karikate, New Caledonia",0.166666666666667,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Mesodesmatidae",166.183333333333,-22.1,"Tropical",0
+"410","26","Baron 1992","Anadara scapha","Teremba, New Caledonia",0.25,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Arcidae",165.733333333333,-21.7666666666667,"Tropical",0
+"411","27","Baron 1992","Gafrarium tumidum","Tomo, New Caledonia",0.583333333333333,0.5,0.75,NA,NA,NA,NA,NA,NA,"","Veneridae",11.15,-21.95,"Tropical",0
+"412","28","Baron et al 2004","Ensis macha","Puerto Lobos, Argentina",0.583333333333333,0.5,0.333333333333333,0.583333333333333,0.5,0.916666666666667,NA,NA,NA,"","Pharidae",-65.0666666666667,-42,"Subtropical",0
+"413","38","Breen et al 1991","Panopea zelandica","Collingwood, NZ",0.666666666666667,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Hiatellidae",172.683333333333,-40.6833333333333,"Subtropical",0
+"414","46","Brown et al 2002","Gari solida","Coliumo Bay, Chile",0.333333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Psammobiidae",-73.95,-36.5333333333333,"Subtropical",0
+"415","47","Brown et al 2002","Semele solida","La Herradura Bay, Chile",1,0.666666666666667,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-71.3666666666667,-29.9666666666667,"Subtropical",0
+"416","50","Cantillanez et al 2005","Argopecten purpuratus","Antofagasta, Chile",0.583333333333333,0.5,0.25,NA,NA,NA,NA,NA,NA,"","Pectinidae",-70.5166666666667,-23.4666666666667,"Subtropical",0
+"417","65","Dinamani et al 1987","Crassostrea gigas","Northland, NZ",0.25,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",174.1,-34.2833333333333,"Subtropical",0
+"418","84","Fernandez Castro and de Mattio 1987","Ostrea puelchana","Chubut, Argentina",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-65.5833333333333,-42.5,"Subtropical",0
+"419","94","Gribben et al 2001","Ruditapes largillierti","Whangetau Harbor, NZ",0.166666666666667,0.5,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",173.516666666667,-34.7166666666667,"Subtropical",0
+"420","95","Gribben et al 2004","Panopea zelandica","Kennedy Bay, NZ",0.333333333333333,0.583333333333333,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Hiatellidae",175.716666666667,-36.6833333333333,"Subtropical",0
+"421","96","Gribben et al 2005","Panopea zelandica","Shelly Bay, NZ",0.5,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Hiatellidae",174.883333333333,-41.3,"Subtropical",0
+"422","97","Griffiths 1977","Choromytilus meridionalis","Bailey's Cottage, False Bay",0.583333333333333,0.666666666666667,0.583333333333333,0.166666666666667,0.166666666666667,0.166666666666667,0.333333333333333,0.416666666666667,0.333333333333333,"","Mytilidae",18.4666666666667,-34.1166666666667,"Subtropical",0
+"423","99","Hadfield and Anderson 1988","Anadara trapezia","Towra Point Nature Reserve, NSW, Australia",0.5,1,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Arcidae",151.183333333333,-34.0166666666667,"Subtropical",0
+"424","100","Hadfield and Anderson 1989","Venerupis crenata","Iron Cove, NSW",0.583333333333333,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",151.166666666667,-33.8666666666667,"Subtropical",0
+"425","101","Hadfield and Anderson 1990","Anomia descripta","Iron Cove, NSW",0.666666666666667,0.666666666666667,0.666666666666667,0.833333333333333,1,0.833333333333333,NA,NA,NA,"","Arcidae",151.166666666667,-33.8666666666667,"Subtropical",0
+"426","107","Herrmann et al 2009","Mesodesma mactroides","Santa Teresita, Argentina",1,1,1,0.416666666666667,0.5,0.416666666666667,NA,NA,NA,"For females","Mesodesmatidae",-56.6833333333333,-36.5333333333333,"Subtropical",0
+"427","108","Hooker and Creese 1995","Paphies australis","Whangateau Harbor, NZ",0.333333333333333,0.5,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Mesodesmatidae",174.766666666667,-36.3166666666667,"Subtropical",0
+"428","142","McLachlan and Hanekom 1989","Donax serra","East Cape, South Africa",0.583333333333333,0.833333333333333,0.583333333333333,0.0833333333333335,0.166666666666667,0.0833333333333335,NA,NA,NA,"","Donacidae",18.5166666666667,-33.9166666666667,"Subtropical",0
+"429","150","Morsan and Kroek 2005","Amiantis purpurata","Villarino, Argentina",0.583333333333333,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-64.7333333333333,-40.8333333333333,"Subtropical",0
+"430","155","Navarte 2003","Aequipecten tehuelcus","El Sotano, Argentina",0.5,0.75,NA,NA,NA,NA,NA,NA,NA,"","Pectinidae",-65.1,-41.95,"Subtropical",0
+"431","174","Pouvreau et al 2000","Pinctada margaritifera","Takapoto Island, French Polynesia",0.583333333333333,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"spawns year-round, 5 peaks","Pteriidae",-145.333333333333,-14.5,"Tropical",0
+"432","211","Wilson and Hodgkin 1967","Mytilus edulis","Fremantle, Western Australia",0.0833333333333335,0.333333333333333,0.0833333333333335,0.0833333333333335,0.333333333333333,0.25,NA,NA,NA,"","Mytilidae",115.75,-32.0666666666667,"Subtropical",0
+"433","211","Wilson and Hodgkin 1967","Xenostrobus pulex","Fremantle, Western Australia",0.0833333333333335,0.166666666666667,0.166666666666667,0.25,0.416666666666667,0.333333333333333,0.416666666666667,0.666666666666667,0.5,"","Mytilidae",115.75,-32.0666666666667,"Subtropical",0
+"434","211","Wilson and Hodgkin 1967","Septifer bilocularis","Fremantle, Western Australia",0.833333333333333,0.916666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",115.75,-32.0666666666667,"Subtropical",0
+"435","211","Wilson and Hodgkin 1967","Brachidontes variabilis","Fremantle, Western Australia",0.833333333333333,0.916666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",115.75,-32.0666666666667,"Subtropical",0
+"436","211","Wilson and Hodgkin 1967","Amygdalum glaberrimum","Fremantle, Western Australia",0.333333333333333,0.416666666666667,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",115.75,-32.0666666666667,"Subtropical",0
+"437","221","Young et al 1999","Pecten fumatus","King Island, Tasmania",0.25,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",143.85,-39.8166666666667,"Subtropical",0
+"438","222","Young et al 2000","Pecten fumatus","Bass Strait, Tasmania",0.166666666666667,0.5,NA,NA,NA,NA,NA,NA,NA,"","Pectinidae",148.4,-40.4333333333333,"Subtropical",0
+"439","229","Borzone et al 2001","Chione pubera","Bom Abrigo, Brazil",0.666666666666667,0.166666666666667,0.0833333333333335,NA,NA,NA,NA,NA,NA,"","Veneridae",-47.6166666666667,-25.4833333333333,"Subtropical",0
+"440","243","Laudien et al 2001","Donax serra","Langstrand, Namibia",0.25,0.666666666666667,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Donacidae",14.55,-22.7833333333333,"Subtropical",0
+"441","244","Laudien et al 2002","Donax serra","Paaltjies IV, Namibia",0.166666666666667,0.583333333333333,0.25,NA,NA,NA,NA,NA,NA,"","Donacidae",14.4,-22.9833333333333,"Subtropical",0
+"442","247","van Erkom Schurink and Griffiths 1991","Aulacomya atra","Bloubergstrand, SA",0.25,0.416666666666667,0.25,1,0.0833333333333335,0.0833333333333335,0.666666666666667,0.75,0.75,"","Mytilidae",18.4833333333333,-33.8333333333333,"Subtropical",0
+"443","247","van Erkom Schurink and Griffiths 1991","Choromytilus meridionalis","Bloubergstrand, SA",0.75,0.166666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Mytilidae",18.4833333333333,-33.8333333333333,"Subtropical",0
+"444","247","van Erkom Schurink and Griffiths 1991","Mytilus galloprovincialis","Bloubergstrand, SA",0.75,0.166666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Mytilidae",18.4833333333333,-33.8333333333333,"Subtropical",0
+"445","247","van Erkom Schurink and Griffiths 1991","Perna perna","Diddo Valley, False Bay, SA",0.75,0.166666666666667,0.75,NA,NA,NA,NA,NA,NA,"","Mytilidae",18.4333333333333,-34.1833333333333,"Subtropical",0
+"446","251","Urban and Campos 1994","Semele solida","Bay of Dichato, Chile",0.333333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Semelidae",-73.95,-36.5333333333333,"Subtropical",0
+"447","252","Urban and Campos 1994","Protothaca thaca","Bay of Dichato, Chile",0.333333333333333,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-73.95,-36.5333333333333,"Subtropical",0
+"448","261","Narchi 1976","Anomalocardia brasiliana","Ponta da Praia, Baia de Santos",0.583333333333333,0.5,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-46.3666666666667,-23.7833333333333,"Subtropical",0
+"449","268","Tranter 1958","Pinctada albina","Thursday Island, Australia",0.583333333333333,0.5,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Pteriidae",142.216666666667,-10.5833333333333,"Tropical",0
+"450","269","O'Sullivan 1980","Ostraea angasi","West Lakes, South Australia",0.333333333333333,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",138.5,-34.8666666666667,"Subtropical",0
+"451","271","Kennedy 1977","Mytilus edulis","Taylor's Mistake, NZ",0.166666666666667,0.75,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",172.783333333333,-43.5833333333333,"Subtropical",0
+"452","271","Kennedy 1977","Aulacomya maoriana","Taylor's Mistake, NZ",0.166666666666667,0.416666666666667,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",172.783333333333,-43.5833333333333,"Subtropical",0
+"453","275","Jaramillo and Navarro 1995","Aulacomya atra","Chiloe Island, Chile",1,0.583333333333333,0.25,NA,NA,NA,NA,NA,NA,"","Mytilidae",-73.5166666666667,-42.75,"Subtropical",0
+"454","284","Berry 1978","Perna perna","Durban, South Africa",0.916666666666667,0.5,1,NA,NA,NA,NA,NA,NA,"","Mytilidae",31.0166666666667,-29.8666666666667,"Subtropical",0
+"455","300","Ortiz-Galarza et al 1994","Trachycardium procerum","Chimbote, Peru",0.666666666666667,0.833333333333333,0.75,0.333333333333333,0.416666666666667,0.333333333333333,NA,NA,NA,"","Cardiidae",-78.55,-9.18333333333333,"Tropical",0
+"456","302","Peredo et al 1987","Mesodesma donacium","Queule Beach, Chile",0.5,0.833333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mesodesmatidae",-73.2166666666667,-39.4166666666667,"Subtropical",0
+"457","306","Silva et al 2012","Iphigenia brasiliana","Todos os Santos Bay",0.583333333333333,0.5,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Donacidae",-38.6833333333333,-12.6166666666667,"Tropical",0
+"458","310","Cabanas et al 2010","Perumytilus purpuratus","Taltal, Chile",1,0.0833333333333335,1,0.333333333333333,0.416666666666667,0.333333333333333,0.666666666666667,0.666666666666667,0.666666666666667,"","Mytilidae",-70.4666666666667,-25.4,"Subtropical",0
+"459","311","Cabanas et al 2010","Perumytilus purpuratus","Huasco, Chile",0.416666666666667,0.583333333333333,0.416666666666667,0.25,0.25,0.25,NA,NA,NA,"","Mytilidae",-71.2166666666667,-28.45,"Subtropical",0
+"460","316","Alfaro et al 2001","Perna canaliculus","Ninety Mile Beach, NZ",1,0.5,0.0833333333333335,NA,NA,NA,NA,NA,NA,"","Mytilidae",173.083333333333,-35.1833333333333,"Subtropical",0
+"461","316","Ampuero 2005","Mulinia edulis","Yaldad, Chile",0.5,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mactridae",-73.7333333333333,-43.1166666666667,"Subtropical",0
+"462","318","Stead et al 2002","Semele solida","Puerto Montt, Chile",0.583333333333333,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Semelidae",-72.9,-41.4833333333333,"Subtropical",0
+"463","318","Stead et al 2002","Tagelus dombeii","Puerto Montt, Chile",0.166666666666667,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Solecurtidae",-72.9,-41.4833333333333,"Subtropical",0
+"464","320","Gribben 2005","Zenatia acinaces","Kennedy Bay, NZ",0.25,0.5,0.25,NA,NA,NA,NA,NA,NA,"","Mactridae",175.716666666667,-36.6833333333333,"Subtropical",0
+"465","321","Jaramillo et al 1993","Zygochlamys patagonica","Hueihue, Bay",0.583333333333333,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",-73.5166666666667,-41.9,"Subtropical",0
+"466","322","Lozada and Reyes 1982","Perumytilus purpuratus","El Tabo, Chile",0.583333333333333,0.5,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Mytilidae",-71.6833333333333,-33.45,"Subtropical",0
+"467","323","Lozada and Bustos 1984","Leukoma antiqua","Bahia de Ancud, Chile",0.583333333333333,0.5,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-73.8666666666667,-41.85,"Subtropical",0
+"468","333","Torroglosa and Gimenez 2017","Brachidontes rodriguezii","Villa Gesell, Argentina",0.25,0.0833333333333335,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-56.8833333333333,-37.2666666666667,"Subtropical",0
+"469","336","Gaspar-Soria et al 2002","Atrina seminuda","Piedras Coloradas, Argentina",0.416666666666667,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Pinnidae",-65.0666666666667,-40.8833333333333,"Subtropical",0
+"470","345","Urrutia et al 2001","Tagelus dombeii","Puerto Montt, Chile",0.416666666666667,0.5,0.416666666666667,0.666666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,"","Solecurtidae",-72.9,-41.4833333333333,"Subtropical",0
+"471","365","Camilo et al 2018","Mytella guyanensis","Bay of Igaupe, Brazil",0.583333333333333,0.5,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",-38.8666666666667,-12.65,"Tropical",0
+"472","366","Lasiak 1986","Crassostrea cucullata","Hluleka, South Africa",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",29.3166666666667,-31.8166666666667,"Subtropical",0
+"473","366","Lasiak 1986","Perna perna","Hluleka, South Africa",0.666666666666667,0.25,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Mytilidae",29.3166666666667,-31.8166666666667,"Subtropical",0
+"474","369","Berry 1978","Perna perna","Natal, SA",0.916666666666667,0.166666666666667,0.916666666666667,0.25,0.333333333333333,0.25,NA,NA,NA,"via Lasiak","Mytilidae",31.8,-29.0166666666667,"Subtropical",0
+"475","370","Gomes et al 2009","Mytella guyanensis","Furo do Meio, Brazil",0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,NA,"","Mytilidae",-46.65,-0.866666666666667,"Tropical",0
+"476","394","Tranter 1959","Pinctada fucata","Thursday Island, Australia",0.583333333333333,0.5,0.833333333333333,0.583333333333333,0.5,0.583333333333333,NA,NA,NA,"Via Wada et al 1995","Pteriidae",142.216666666667,-10.5833333333333,"Tropical",0
+"477","400","Rose et al 1990","Pinctada maxima","Eighty-Mile Beach, Australia",0.25,0.833333333333333,0.25,NA,NA,NA,NA,NA,NA,"","Pteriidae",120.683333333333,-18.5,"Tropical",0
+"478","416","Baron and Ciocco 2001","Tellina petitiana","Nuevo Gulf, Argentina",0.416666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",-64.9666666666667,-42.75,"Subtropical",0
+"479","417","Cueta and Boehs 2011","Tagelus plebeius","Cachoeira River, Brazil",0.583333333333333,0.5,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Solecurtidae",-39.0166666666667,-14.7666666666667,"Tropical",0
+"480","420","Lenz and Boehs 2010","Crassostrea rhizophorae","Camamu Bay, Brazil",0.583333333333333,0.5,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",-39.05,-14.1166666666667,"Tropical",0
+"481","424","Morriconi et al 2002","Eurhomalea exalbida","Ushuaia Bay, Argentina",0.25,0.583333333333333,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",-68.2666666666667,-54.8333333333333,"Temperate",0
+"482","425","Morriconi et al 2007","Tawera gayi","Ushuaia Bay, Argentina",0.25,0.333333333333333,0.333333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",-68.2666666666667,-54.8333333333333,"Temperate",0
+"483","427","Kang et al 2008","Laternula elliptica","Marian Cove, Antarctica",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Laternulidae",-58.7833333333333,-62.2166666666667,"Temperate",0
+"484","438","Mendo et al 2016","Pecten fumatus","Great Bay, Tasmania",0.333333333333333,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",147.333333333333,-43.2166666666667,"Subtropical",0
+"485","440","Nottingham and White 2015","Mactra murchosoni","Pegasus Bay, NZ",0.333333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Mactridae",173,-43.3333333333333,"Subtropical",0
+"486","490","O'Connor et al 1996","Mimachlamys sanguinea","Jervis Bay, Australia",0.583333333333333,0.5,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",150.75,-35.05,"Subtropical",0
+"487","491","Vinuesa and Tortorelli 1980","Aulacomya atra","Puerto Deseado",0.583333333333333,0.583333333333333,0.583333333333333,0.833333333333333,0.833333333333333,0.833333333333333,NA,NA,NA,"","Mytilidae",-65.9166666666667,-47.75,"Temperate",0
+"488","492","Cervantes et al 2011","Semele corrugata","Bahia Independencia, Peru",0.583333333333333,0.5,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Semelidae",-76.25,-14.15,"Tropical",0
+"489","497","Corte et al 2014","Tivela mactroides","Caraguatatuba Bay, Brazil",0.5,0.666666666666667,0.5,0.833333333333333,0.333333333333333,0.166666666666667,NA,NA,NA,"","Veneridae",-45.4166666666667,-23.6666666666667,"Subtropical",0
+"490","498","Mugabe et al 2017","Eumarcia paupercula","Maputo Bay, Mozambique",0.583333333333333,0.5,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Veneridae",32.6666666666667,-25.9166666666667,"Subtropical",0
+"491","501","Barreira and Araujo 2005","Anomalocardia brasiliana","Fortim, Brazil",0.583333333333333,0.5,0.166666666666667,0.583333333333333,0.5,0.666666666666667,NA,NA,NA,"","Veneridae",-37.8,-4.45,"Tropical",0
+"492","510","Zardi et al 2007","Perna perna","Plettenberg Bay, South Africa",1,0.0833333333333335,1,0.583333333333333,0.75,0.666666666666667,NA,NA,NA,"","Mytilidae",23.3166666666667,-34.0833333333333,"Subtropical",0
+"493","516","Kang et al 2009","Laternula elliptica","Marian Cove, Antarctica",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Laternulidae",-58.7833333333333,-62.2166666666667,"Temperate",0
+"494","517","Bosch and Pearse 1988","Laternula elliptica","McMurdo Sound",0.75,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Laternulidae",-166.666666666667,-77.85,"Boreal",0
+"495","530","Lizarralde and Cazzaniga 2009","Tellina petitiana","Golfo Nuevo, Argentina",0.333333333333333,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Tellinidae",-65.0333333333333,-42.7666666666667,"Subtropical",0
+"496","559","Neto et al 2013","Crassostrea rhizophorae","Guaratuba Bay, Brazil",0.583333333333333,0.5,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",-48.6333333333333,-25.8666666666667,"Subtropical",0
+"497","560","Cledon et al 2004`","Tagelus plebeius","Mar Chiquita, Argentina",0.333333333333333,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Solecurtidae",-57.4333333333333,-37.7333333333333,"Subtropical",0
+"498","499","Barber et al 2005","Brachidontes exustus","Tampa Bay, Florida",0.333333333333333,0.416666666666667,0.333333333333333,0.75,0.916666666666667,0.75,NA,NA,NA,"","Mytilidae",-82.6666666666667,28,"Subtropical",0
+"499","500","Chung et al 2006","Solen grandis","Gunsan, Korea",0.5,0.583333333333333,0.5,NA,NA,NA,NA,NA,NA,"","Solenidae",126.55,35.85,"Subtropical",0
+"500","502","Chung 2007","Meretrix lusoria","Simpo, Korea",0.5,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Veneridae",126.633333333333,35.8333333333333,"Subtropical",0
+"501","505","Chung et al 1988","Mactra veneriformis","Simpo, Korea",0.5,0.75,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mactridae",126.633333333333,35.8333333333333,"Subtropical",0
+"502","506","Jarnegren et al 2007","Acesta excavata","Bergen, Norway",0.666666666666667,1,0.75,0.416666666666667,0.416666666666667,0.416666666666667,NA,NA,NA,"","Limidae",5.03333333333333,60.4166666666667,"Temperate",0
+"503","509","Lewis et al 1982","Yoldia limatula","Prince Edward Island, Canada",0.666666666666667,0.666666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Yoldiidae",-63.9,46.6166666666667,"Temperate",0
+"504","514","Clemente and Ingole 2009","Polymesoda erosa","Goa, India",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Cyrenoididae",73.75,15.4166666666667,"Tropical",0
+"505","518","Kang et al 2006","Laternula marilina","Seomjin River estuary, Korea",0.666666666666667,0.75,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Laternulidae",127.8,34.9333333333333,"Subtropical",0
+"506","518","Kang et al 2006","Moerella rutila","Seomjin River estuary, Korea",0.833333333333333,0.916666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Tellinidae",127.8,34.9333333333333,"Subtropical",0
+"507","523","MacDonald et al 1991","Chlamys hastata","Bamfield, BC",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",-125.15,48.8333333333333,"Temperate",0
+"508","524","MacDonald et al 1991","Chlamys rubida","Denman Island, BC",0.25,0.333333333333333,0.25,0.75,0.833333333333333,0.75,NA,NA,NA,"","Pectinidae",-124.8,49.5666666666667,"Temperate",0
+"509","523","MacDonald et al 1991","Crassadoma gigantea","Bamfield, BC",0.583333333333333,0.666666666666667,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Pectinidae",-125.15,48.8333333333333,"Temperate",0
+"510","525","Golikov and Scarlato 1970","Mizuhopecten yessoensis","Posjet Bay, Russia",0.416666666666667,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Pectinidae",130.716666666667,42.65,"Subtropical",0
+"511","525","Golikov and Scarlato 1970","Spisula sachalinensis","Posjet Bay, Russia",0.5,0.583333333333333,0.583333333333333,NA,NA,NA,NA,NA,NA,"","Mactridae",130.716666666667,42.65,"Subtropical",0
+"512","527","Jayabal and Kalyani 1989","Meretrix meretrix","Vellar Estuary, India",0.166666666666667,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Veneridae",79.75,11.5166666666667,"Tropical",0
+"513","528","Kawai et al 1993","Nitidotellina hokkaidoensis","Hakodate Bay, Japan",0.416666666666667,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Tellinidae",140.716666666667,41.8,"Subtropical",0
+"514","529","Salzwedel 1979","Tellina fabula","German Bight",0.25,0.75,0.5,NA,NA,NA,NA,NA,NA,"","Tellinidae",7.88333333333333,54.1333333333333,"Temperate",0
+"515","534","Kim et al 2010","Saccostrea kegaki","Jungmoon, Jeju Island, Korea",0.583333333333333,0.833333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Ostreidae",126.433333333333,33.2333333333333,"Subtropical",0
+"516","537","Kim and Lee 2008","Sinonovacula constricta","Simpo, Korea",0.666666666666667,0.833333333333333,0.833333333333333,NA,NA,NA,NA,NA,NA,"","Pharidae",126.633333333333,35.8333333333333,"Subtropical",0
+"517","543","Leonard 1968","Pododesmus cepio","White Gulch, CA",0.5,0.916666666666667,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Anomiidae",-122.95,38.2,"Subtropical",0
+"518","544","Lightfoot et al 1979","Ledella messanensis","Rockall Trough",0.0833333333333333,0.333333333333333,0.166666666666667,NA,NA,NA,NA,NA,NA,"","Nuculanidae",-12.2666666666667,54.6666666666667,"Temperate",0
+"519","544","Lightfoot et al 1979","Yoldiella jeffreysi","Rockall Trough",0.916666666666667,1,0.916666666666667,NA,NA,NA,NA,NA,NA,"","Yoldiidae",-12.2666666666667,54.6666666666667,"Temperate",0
+"520","545","Johnson and Le Pennec 1994","Loripes lucinalis","Brest Harbor, France",0.416666666666667,0.5,0.416666666666667,0.916666666666667,1,0.916666666666667,NA,NA,NA,"","Lucinidae",-4.3,48.35,"Temperate",0
+"521","546","Nabuab and del Norte-Campos 2006","Gari elongata","Banate Bay, Philippines",0.0833333333333333,1,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Psammobiidae",122.8,10.5666666666667,"Tropical",1
+"522","547","Sloan and Robinson 1984","Panopea abrupta","Hammond Bay, British Columbia",0.416666666666667,0.5,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Hiatellidae",-123.966666666667,49.2333333333333,"Temperate",0
+"523","549","van der Geest et al 2014","Loripes lucinalis","Banc d'Arguin, Mauritania",0.0833333333333333,0.166666666666667,0.0833333333333333,0.5,0.666666666666667,0.5,NA,NA,NA,"","Lucinidae",-16.3166666666667,19.8666666666667,"Tropical",0
+"524","551","Fujiwara et al 1998","Calyptogena soyoae","Sagami Bay, Japan",0.0833333333333333,1,NA,NA,NA,NA,NA,NA,NA,"","Vesicomyidae",139.233333333333,35,"Subtropical",1
+"525","555","Kang et al 2004","Ostrea circumpicta","Jeju Island, Korea",0.5,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Ostreidae",126.566666666667,33.2166666666667,"Subtropical",0
+"526","556","Christo and Absher 2006","Crassostrea brasiliana","Guaratuba Bay, Brazil",0.0833333333333333,1,0.0833333333333333,NA,NA,NA,NA,NA,NA,"","Ostreidae",-48.6333333333333,25.8666666666667,"Subtropical",1
+"527","561","Drescher et al 2019","Rangia cuneata","Johnson Bayou, MS",0.416666666666667,0.5,0.5,NA,NA,NA,NA,NA,NA,"","Mactridae",-89.2333333333333,30.3333333333333,"Subtropical",0
+"528","562","Cain 1975","Rangia cuneata","James River, Virginia",0.833333333333333,0.916666666666667,0.833333333333333,0.583333333333333,0.583333333333333,0.583333333333333,NA,NA,NA,"","Mactridae",-76.7166666666667,37.2166666666667,"Subtropical",0
+"529","563","Jovanovich and Marion 1989","Rangia cuneata","Dog River, Mobile, Alabama",0.416666666666667,0.833333333333333,0.75,NA,NA,NA,NA,NA,NA,"","Mactridae",-88.0833333333333,30.5666666666667,"Subtropical",0
+"530","564","Fairbanks 1963","Rangia cuneata","Lake Ponchartrain, LA",0.5,0.916666666666667,0.583333333333333,0.416666666666667,0.416666666666667,0.416666666666667,NA,NA,NA,"","Mactridae",-90.1,30.1166666666667,"Subtropical",0
+"531","508","Peck et al 2000","Yoldia eightsii","Signy Island, Antarctica",1,1,1,NA,NA,NA,NA,NA,NA,"","Yoldiidae",-45.6,-60.7166666666667,"Temperate",0
+"532","515","Grant and Creese 1995","Paphies subtriangulata","Omaha Bay, NZ",0.666666666666667,1,0.75,0.25,0.416666666666667,0.333333333333333,NA,NA,NA,"","Mesodesmatidae",174.783333333333,-36.35,"Subtropical",0
+"533","542","Brey and Hain 1992","Lissarca notorcadensis","South Orkney, Antarctica",0.333333333333333,0.666666666666667,0.5,NA,NA,NA,NA,NA,NA,"","Philobryidae",-38,-77.9,"Boreal",0
+"534","548","Tyler et al 2003","Adamussium colbecki","Rothera, Antarctica",0.25,0.333333333333333,0.25,NA,NA,NA,NA,NA,NA,"","Pectinidae",-68.0666666666667,-67.45,"Temperate",0
+"535","550","van der Molen et al 2007","Panopea abbreviata","Puerto Lobos, Argentina",0.583333333333333,0.5,0.0833333333333335,NA,NA,NA,NA,NA,NA,"","Hiatellidae",-65.0666666666667,-42,"Subtropical",0
+"536","553","Gadelha et al 2019","Donax striatus","Arjurutea, Brazil",0.583333333333333,0.5,0.666666666666667,NA,NA,NA,NA,NA,NA,"","Donacidae",-46.6,-0.833333333333333,"Tropical",0
+"537","554","Herrmann et al 2010","Donax hanleyanus","Santa Teresita, Argentina",0.333333333333333,0.666666666666667,NA,NA,NA,NA,NA,NA,NA,"","Donacidae",-57,-36.5333333333333,"Subtropical",0
+"538","554","Herrmann et al 2010","Donax hanleyanus","Mar de las Pampas, Argentina",0.416666666666667,0.833333333333333,NA,NA,NA,NA,NA,NA,NA,"","Donacidae",-57,-37.3166666666667,"Subtropical",0
+"539","554","Herrmann et al 2010","Donax hanleyanus","Faro Querandi, Argentin",0.333333333333333,0.916666666666667,NA,NA,NA,NA,NA,NA,NA,"","Donacidae",-57.1166666666667,-37.4833333333333,"Subtropical",0
+"540","558","Styan and Butler 2003","Equichlamys bifrons","Gulf St. Vincent, Australia",0.166666666666667,0.166666666666667,0.166666666666667,1,1,1,NA,NA,NA,"","Pectinidae",138.233333333333,-35.1333333333333,"Subtropical",0
+"541","558","Styan and Butler 2003","Mimachlamys asperrima","Gulf St. Vincent, Australia",0.25,0.75,0.416666666666667,NA,NA,NA,NA,NA,NA,"","Pectinidae",138.233333333333,-35.1333333333333,"Subtropical",0
+"542","559","Neto et al 2013","Crassostrea brasiliana","Guaratuba Bay, Brazil",0.583333333333333,0.5,0.75,NA,NA,NA,NA,NA,NA,"","Ostreidae",-48.6333333333333,-25.8666666666667,"Subtropical",0
